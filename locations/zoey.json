@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Crystals Unique Gift",
+                "access_rules": 
+                [
+                    "crystalsuniquegift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "crystalsuniquegift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "crystalsuniquegift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "crystalsuniquegift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Crystal Ball Unique Gift",
+                "access_rules": 
+                [
+                    "crystalballuniquegift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "crystalballuniquegift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "crystalballuniquegift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "crystalballuniquegift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Hourglass Unique Gift",
+                "access_rules": 
+                [
+                    "hourglassuniquegift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "hourglassuniquegift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "hourglassuniquegift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "hourglassuniquegift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Tarot Cards Unique Gift",
+                "access_rules": 
+                [
+                    "tarotcardsuniquegift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "tarotcardsuniquegift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "tarotcardsuniquegift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "tarotcardsuniquegift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Astro Boots Gift",
+                "access_rules": 
+                [
+                    "astrobootsgift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "astrobootsgift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "astrobootsgift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "astrobootsgift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Sacred Boots Gift",
+                "access_rules": 
+                [
+                    "sacredbootsgift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "sacredbootsgift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "sacredbootsgift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "sacredbootsgift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Sherbet Boots Gift",
+                "access_rules": 
+                [
+                    "sherbetbootsgift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "sherbetbootsgift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "sherbetbootsgift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "sherbetbootsgift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift zoey Hydro Boots Gift",
+                "access_rules": 
+                [
+                    "hydrobootsgift,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "hydrobootsgift,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "hydrobootsgift,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "hydrobootsgift,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (lillian|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lillian|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lillian|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lola|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lola|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (polly|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (polly|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (polly|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (sarah|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (sarah|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (sarah|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "zoey favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Citrus Acid Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Toxicity Outfit",
+                "access_rules": 
+                [
+                    "zoeytoxicityoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeytoxicityoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeytoxicityoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeytoxicityoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Sacrilege Outfit",
+                "access_rules": 
+                [
+                    "zoeysacrilegeoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeysacrilegeoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeysacrilegeoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeysacrilegeoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Sugar High Outfit",
+                "access_rules": 
+                [
+                    "zoeysugarhighoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeysugarhighoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeysugarhighoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeysugarhighoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Cheetah Outfit",
+                "access_rules": 
+                [
+                    "zoeycheetahoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeycheetahoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeycheetahoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeycheetahoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Dreamsicle Outfit",
+                "access_rules": 
+                [
+                    "zoeydreamsicleoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeydreamsicleoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeydreamsicleoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeydreamsicleoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Scarehoe Outfit",
+                "access_rules": 
+                [
+                    "zoeyscarehoeoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeyscarehoeoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeyscarehoeoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeyscarehoeoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Cyber Slave Outfit",
+                "access_rules": 
+                [
+                    "zoeycyberslaveoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeycyberslaveoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeycyberslaveoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeycyberslaveoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Gamer Girl Outfit",
+                "access_rules": 
+                [
+                    "zoeygamergirloutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeygamergirloutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeygamergirloutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeygamergirloutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "zoey",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Zoey in Luvendass Outfit",
+                "access_rules": 
+                [
+                    "zoeyluvendassoutfit,unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)",
+                    "zoeyluvendassoutfit,unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)",
+                    "zoeyluvendassoutfit,unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)",
+                    "zoeyluvendassoutfit,unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

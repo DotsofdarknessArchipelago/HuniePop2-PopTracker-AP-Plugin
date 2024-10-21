@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Spanking Paddle Unique Gift",
+                "access_rules": 
+                [
+                    "spankingpaddleuniquegift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "spankingpaddleuniquegift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "spankingpaddleuniquegift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "spankingpaddleuniquegift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Ball Gag Unique Gift",
+                "access_rules": 
+                [
+                    "ballgaguniquegift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "ballgaguniquegift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "ballgaguniquegift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "ballgaguniquegift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Nipple Clamps Unique Gift",
+                "access_rules": 
+                [
+                    "nippleclampsuniquegift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "nippleclampsuniquegift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "nippleclampsuniquegift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "nippleclampsuniquegift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Handcuffs Unique Gift",
+                "access_rules": 
+                [
+                    "handcuffsuniquegift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "handcuffsuniquegift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "handcuffsuniquegift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "handcuffsuniquegift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Crafted Flats Gift",
+                "access_rules": 
+                [
+                    "craftedflatsgift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "craftedflatsgift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "craftedflatsgift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "craftedflatsgift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Basic Flats Gift",
+                "access_rules": 
+                [
+                    "basicflatsgift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "basicflatsgift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "basicflatsgift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "basicflatsgift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Floral Flats Gift",
+                "access_rules": 
+                [
+                    "floralflatsgift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "floralflatsgift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "floralflatsgift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "floralflatsgift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift abia Cozy Flats Gift",
+                "access_rules": 
+                [
+                    "cozyflatsgift,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "cozyflatsgift,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "cozyflatsgift,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "cozyflatsgift,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Abia/Candace",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|candace)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|candace)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Abia/Jessie",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Abia/Lillian",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Abia/Lola",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "abia favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Traditional Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Flarora Outfit",
+                "access_rules": 
+                [
+                    "abiaflaroraoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiaflaroraoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiaflaroraoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiaflaroraoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Modesty Outfit",
+                "access_rules": 
+                [
+                    "abiamodestyoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiamodestyoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiamodestyoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiamodestyoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Arabian Allure Outfit",
+                "access_rules": 
+                [
+                    "abiaarabianallureoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiaarabianallureoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiaarabianallureoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiaarabianallureoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Invisikini Outfit",
+                "access_rules": 
+                [
+                    "abiainvisikinioutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiainvisikinioutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiainvisikinioutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiainvisikinioutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Silk Road Outfit",
+                "access_rules": 
+                [
+                    "abiasilkroadoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiasilkroadoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiasilkroadoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiasilkroadoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Morning Delight Outfit",
+                "access_rules": 
+                [
+                    "abiamorningdelightoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiamorningdelightoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiamorningdelightoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiamorningdelightoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Airport Security Outfit",
+                "access_rules": 
+                [
+                    "abiaairportsecurityoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiaairportsecurityoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiaairportsecurityoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiaairportsecurityoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Assassin Outfit",
+                "access_rules": 
+                [
+                    "abiaassassinoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiaassassinoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiaassassinoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiaassassinoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "abia",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Abia in Birthday Suit Outfit",
+                "access_rules": 
+                [
+                    "abiabirthdaysuitoutfit,unlockgirl(abia),unlockgirl(candace),pairunlock(abia|candace)",
+                    "abiabirthdaysuitoutfit,unlockgirl(abia),unlockgirl(jessie),pairunlock(abia|jessie)",
+                    "abiabirthdaysuitoutfit,unlockgirl(abia),unlockgirl(lillian),pairunlock(abia|lillian)",
+                    "abiabirthdaysuitoutfit,unlockgirl(abia),unlockgirl(lola),pairunlock(abia|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

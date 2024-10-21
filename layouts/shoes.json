@@ -1,0 +1,96 @@
+{
+    "shoe_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                              "craftedflatsgift",
+                              "basicflatsgift",
+                              "floralflatsgift",
+                              "cozyflatsgift"
+
+                          ],
+                            [
+                             "zipupgladiatorsgift",
+                             "strapgladiatorsgift",
+                             "weavegladiatorsgift",
+                             "modestgladiatorsgift"
+                         ],
+                            [
+                             "charcoalwedgesgift",
+                             "corkwedgesgift",
+                             "woodenwedgesgift",
+                             "denimwedgesgift"
+                         ],
+                            [
+                             "glitteryheelsgift",
+                             "studdedheelsgift",
+                             "neonheelsgift",
+                             "clearheelsgift"
+                         ],
+                            [
+                             "angelpeeptoesgift",
+                             "plaidpeeptoesgift",
+                             "ribbonpeeptoesgift",
+                             "leopardpeeptoesgift"
+                         ],
+                            [
+                             "palmflipflopsgift",
+                             "melonflipflopsgift",
+                             "aquaflipflopsgift",
+                             "gardenflipflopsgift"
+                         ],
+                            [
+                             "suedebootiesgift",
+                             "stripedbootiesgift",
+                             "gothbootiesgift",
+                             "satanicbootiesgift"
+                         ],
+                            [
+                             "knittedbootsgift",
+                             "seasonalbootsgift",
+                             "heavybootsgift",
+                             "fuzzybootsgift"
+                         ],
+                            [
+                             "ballin'sneakersgift",
+                             "hightopsneakersgift",
+                             "airysneakersgift",
+                             "trainingsneakersgift"
+                         ],
+                            [
+                             "girlypumpsgift",
+                             "classypumpsgift",
+                             "shinypumpsgift",
+                             "polkadotpumpsgift"
+                         ],
+                            [
+                             "getaplatformsgift",
+                             "candyplatformsgift",
+                             "rainbowplatformsgift",
+                             "starplatformsgift"
+                         ],
+                            [
+                             "astrobootsgift",
+                             "sacredbootsgift",
+                             "sherbetbootsgift",
+                             "hydrobootsgift"
+                         ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

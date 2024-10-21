@@ -1,0 +1,67 @@
+{
+    "misc_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "talentlv-up1",
+                                "talentlv-up2",
+                                "talentlv-up3",
+                                "talentlv-up4"                     
+                            ],
+                            [
+                                "flirtationlv-up1",
+                                "flirtationlv-up2",
+                                "flirtationlv-up3",
+                                "flirtationlv-up4"                       
+                            ],
+                            [
+                                "romancelv-up1",
+                                "romancelv-up2",
+                                "romancelv-up3",
+                                "romancelv-up4"                       
+                            ],
+                            [
+                                "sexuallv-up1",
+                                "sexuallv-up2",
+                                "sexuallv-up3",
+                                "sexuallv-up4"                        
+                            ],
+                            [
+                                "passionlv-up1",
+                                "passionlv-up2",
+                                "passionlv-up3",
+                                "passionlv-up4",
+                                "passionlv-up5",
+                                "passionlv-up6",                         
+                                "passionlv-up7",
+                                "passionlv-up8"
+                            ],
+                            [
+                                "stylelv-up1",
+                                "stylelv-up2",
+                                "stylelv-up3",
+                                "stylelv-up4",
+                                "stylelv-up5",
+                                "stylelv-up6",
+                                "stylelv-up7",
+                                "stylelv-up8"          
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

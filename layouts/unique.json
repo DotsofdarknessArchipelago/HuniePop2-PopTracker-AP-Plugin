@@ -1,0 +1,96 @@
+{
+    "unique_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "spankingpaddleuniquegift",
+                                "ballgaguniquegift",
+                                "nippleclampsuniquegift",
+                                "handcuffsuniquegift"
+
+                            ],
+                            [
+                                "microphoneuniquegift",
+                                "bassguitaruniquegift",
+                                "drumsticksuniquegift",
+                                "guitarampuniquegift"
+                            ],
+                            [
+                                "clutchpurseuniquegift",
+                                "shoulderbaguniquegift",
+                                "quiltedhandbaguniquegift",
+                                "eleganttotebaguniquegift"
+                            ],
+                            [
+                                "letterblocksuniquegift",
+                                "ringstackeruniquegift",
+                                "shapesblockuniquegift",
+                                "animalwheeluniquegift"
+                            ],
+                            [
+                                "ginuniquegift",
+                                "rumuniquegift",
+                                "whiskyuniquegift",
+                                "vodkauniquegift"
+                            ],
+                            [
+                                "bathsaltsuniquegift",
+                                "hotstonesuniquegift",
+                                "loofahspongeuniquegift",
+                                "warmtowelsuniquegift"
+                            ],
+                            [
+                                "witchhatuniquegift",
+                                "jack-o'-lanternuniquegift",
+                                "ouijaboarduniquegift",
+                                "voodoodolluniquegift"
+                            ],
+                            [
+                                "spoolofthreaduniquegift",
+                                "buttonsuniquegift",
+                                "pincushionuniquegift",
+                                "measuringtapeuniquegift"
+                            ],
+                            [
+                                "binkyuniquegift",
+                                "diapersuniquegift",
+                                "babybottleuniquegift",
+                                "carcarrieruniquegift"
+                            ],
+                            [
+                                "televisionuniquegift",
+                                "jukeboxuniquegift",
+                                "phonographuniquegift",
+                                "radiouniquegift"
+                            ],
+                            [
+                                "mangabookuniquegift",
+                                "boobymousepaduniquegift",
+                                "cellphonecoveruniquegift",
+                                "chibifigurineuniquegift"
+                            ],
+                            [
+                                "crystalsuniquegift",
+                                "crystalballuniquegift",
+                                "hourglassuniquegift",
+                                "tarotcardsuniquegift"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

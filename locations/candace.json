@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Letter Blocks Unique Gift",
+                "access_rules": 
+                [
+                    "letterblocksuniquegift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "letterblocksuniquegift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "letterblocksuniquegift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "letterblocksuniquegift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Ring Stacker Unique Gift",
+                "access_rules": 
+                [
+                    "ringstackeruniquegift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "ringstackeruniquegift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "ringstackeruniquegift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "ringstackeruniquegift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Shapes Block Unique Gift",
+                "access_rules": 
+                [
+                    "shapesblockuniquegift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "shapesblockuniquegift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "shapesblockuniquegift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "shapesblockuniquegift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Animal Wheel Unique Gift",
+                "access_rules": 
+                [
+                    "animalwheeluniquegift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "animalwheeluniquegift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "animalwheeluniquegift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "animalwheeluniquegift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Glittery Heels Gift",
+                "access_rules": 
+                [
+                    "glitteryheelsgift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "glitteryheelsgift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "glitteryheelsgift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "glitteryheelsgift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Studded Heels Gift",
+                "access_rules": 
+                [
+                    "studdedheelsgift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "studdedheelsgift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "studdedheelsgift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "studdedheelsgift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Neon Heels Gift",
+                "access_rules": 
+                [
+                    "neonheelsgift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "neonheelsgift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "neonheelsgift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "neonheelsgift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift candace Clear Heels Gift",
+                "access_rules": 
+                [
+                    "clearheelsgift,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "clearheelsgift,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "clearheelsgift,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "clearheelsgift,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (abia|candace)",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|candace)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|candace)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (candace|lailani)",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (candace|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (candace|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (candace|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (candace|polly)",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (candace|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "candace favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Buckled Up Outfit",
+                "access_rules": 
+                [
+                    "candacebuckledupoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacebuckledupoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacebuckledupoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacebuckledupoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Candy Wrapper Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Vanilla Cream Outfit",
+                "access_rules": 
+                [
+                    "candacevanillacreamoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacevanillacreamoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacevanillacreamoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacevanillacreamoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Shiny Treasure Outfit",
+                "access_rules": 
+                [
+                    "candaceshinytreasureoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candaceshinytreasureoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candaceshinytreasureoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candaceshinytreasureoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Splish Splash Outfit",
+                "access_rules": 
+                [
+                    "candacesplishsplashoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacesplishsplashoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacesplishsplashoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacesplishsplashoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Strawberry Milk Outfit",
+                "access_rules": 
+                [
+                    "candacestrawberrymilkoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacestrawberrymilkoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacestrawberrymilkoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacestrawberrymilkoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Onahole Outfit",
+                "access_rules": 
+                [
+                    "candaceonaholeoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candaceonaholeoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candaceonaholeoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candaceonaholeoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Law & Order Outfit",
+                "access_rules": 
+                [
+                    "candacelaw&orderoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacelaw&orderoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacelaw&orderoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacelaw&orderoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Health Care Outfit",
+                "access_rules": 
+                [
+                    "candacehealthcareoutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candacehealthcareoutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candacehealthcareoutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candacehealthcareoutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "candace",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Candace in Flasher Outfit",
+                "access_rules": 
+                [
+                    "candaceflasheroutfit,unlockgirl(candace),unlockgirl(abia),pairunlock(abia|candace)",
+                    "candaceflasheroutfit,unlockgirl(candace),unlockgirl(lailani),pairunlock(candace|lailani)",
+                    "candaceflasheroutfit,unlockgirl(candace),unlockgirl(nora),pairunlock(candace|nora)",
+                    "candaceflasheroutfit,unlockgirl(candace),unlockgirl(polly),pairunlock(candace|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

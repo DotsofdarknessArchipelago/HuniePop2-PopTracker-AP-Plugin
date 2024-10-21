@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Bath Salts Unique Gift",
+                "access_rules": 
+                [
+                    "bathsaltsuniquegift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "bathsaltsuniquegift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "bathsaltsuniquegift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "bathsaltsuniquegift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Hot Stones Unique Gift",
+                "access_rules": 
+                [
+                    "hotstonesuniquegift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "hotstonesuniquegift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "hotstonesuniquegift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "hotstonesuniquegift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Loofah Sponge Unique Gift",
+                "access_rules": 
+                [
+                    "loofahspongeuniquegift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "loofahspongeuniquegift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "loofahspongeuniquegift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "loofahspongeuniquegift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Warm Towels Unique Gift",
+                "access_rules": 
+                [
+                    "warmtowelsuniquegift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "warmtowelsuniquegift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "warmtowelsuniquegift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "warmtowelsuniquegift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Palm Flip Flops Gift",
+                "access_rules": 
+                [
+                    "palmflipflopsgift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "palmflipflopsgift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "palmflipflopsgift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "palmflipflopsgift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Melon Flip Flops Gift",
+                "access_rules": 
+                [
+                    "melonflipflopsgift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "melonflipflopsgift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "melonflipflopsgift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "melonflipflopsgift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Aqua Flip Flops Gift",
+                "access_rules": 
+                [
+                    "aquaflipflopsgift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "aquaflipflopsgift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "aquaflipflopsgift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "aquaflipflopsgift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lailani Garden Flip Flops Gift",
+                "access_rules": 
+                [
+                    "gardenflipflopsgift,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "gardenflipflopsgift,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "gardenflipflopsgift,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "gardenflipflopsgift,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (candace|lailani)",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (candace|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (jessie|lailani)",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (jessie|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lailani|lillian)",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lailani|lillian)",
+                "access_rules":  
+                [
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lailani|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lailani|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lailani favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Sea Foam Outfit",
+                "access_rules": 
+                [
+                    "lailaniseafoamoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailaniseafoamoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailaniseafoamoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailaniseafoamoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Sarong Song Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Sunny Day Outfit",
+                "access_rules": 
+                [
+                    "lailanisunnydayoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailanisunnydayoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailanisunnydayoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailanisunnydayoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Hula Dancer Outfit",
+                "access_rules": 
+                [
+                    "lailanihuladanceroutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailanihuladanceroutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailanihuladanceroutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailanihuladanceroutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Infinity Outfit",
+                "access_rules": 
+                [
+                    "lailaniinfinityoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailaniinfinityoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailaniinfinityoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailaniinfinityoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Masseuse Outfit",
+                "access_rules": 
+                [
+                    "lailanimasseuseoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailanimasseuseoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailanimasseuseoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailanimasseuseoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Koimono Outfit",
+                "access_rules": 
+                [
+                    "lailanikoimonooutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailanikoimonooutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailanikoimonooutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailanikoimonooutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Native Chic Outfit",
+                "access_rules": 
+                [
+                    "lailaninativechicoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailaninativechicoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailaninativechicoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailaninativechicoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Blupee Outfit",
+                "access_rules": 
+                [
+                    "lailaniblupeeoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailaniblupeeoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailaniblupeeoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailaniblupeeoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "lailani",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lailani in Closet Freak Outfit",
+                "access_rules": 
+                [
+                    "lailaniclosetfreakoutfit,unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)",
+                    "lailaniclosetfreakoutfit,unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)",
+                    "lailaniclosetfreakoutfit,unlockgirl(lailani),unlockgirl(lillian),pairunlock(lailani|lillian)",
+                    "lailaniclosetfreakoutfit,unlockgirl(lailani),unlockgirl(sarah),pairunlock(lailani|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

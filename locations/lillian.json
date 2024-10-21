@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Witch Hat Unique Gift",
+                "access_rules": 
+                [
+                    "witchhatuniquegift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "witchhatuniquegift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "witchhatuniquegift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "witchhatuniquegift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Jack-O'-Lantern Unique Gift",
+                "access_rules": 
+                [
+                    "jack-o'-lanternuniquegift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "jack-o'-lanternuniquegift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "jack-o'-lanternuniquegift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "jack-o'-lanternuniquegift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Ouija Board Unique Gift",
+                "access_rules": 
+                [
+                    "ouijaboarduniquegift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "ouijaboarduniquegift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "ouijaboarduniquegift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "ouijaboarduniquegift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Voodoo Doll Unique Gift",
+                "access_rules": 
+                [
+                    "voodoodolluniquegift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "voodoodolluniquegift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "voodoodolluniquegift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "voodoodolluniquegift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Suede Booties Gift",
+                "access_rules": 
+                [
+                    "suedebootiesgift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "suedebootiesgift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "suedebootiesgift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "suedebootiesgift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Striped Booties Gift",
+                "access_rules": 
+                [
+                    "stripedbootiesgift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "stripedbootiesgift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "stripedbootiesgift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "stripedbootiesgift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Goth Booties Gift",
+                "access_rules": 
+                [
+                    "gothbootiesgift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "gothbootiesgift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "gothbootiesgift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "gothbootiesgift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lillian Satanic Booties Gift",
+                "access_rules": 
+                [
+                    "satanicbootiesgift,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "satanicbootiesgift,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "satanicbootiesgift,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "satanicbootiesgift,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (abia|lillian)",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (ashley|lillian)",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lailani|lillian)",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lailani|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lillian|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lillian|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lillian|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lillian favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Panda Bare Outfit",
+                "access_rules": 
+                [
+                    "lillianpandabareoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lillianpandabareoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lillianpandabareoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lillianpandabareoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Mall Goth Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Pentagram Outfit",
+                "access_rules": 
+                [
+                    "lillianpentagramoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lillianpentagramoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lillianpentagramoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lillianpentagramoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Trapped Soul Outfit",
+                "access_rules": 
+                [
+                    "lilliantrappedsouloutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lilliantrappedsouloutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lilliantrappedsouloutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lilliantrappedsouloutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Bat Wings Outfit",
+                "access_rules": 
+                [
+                    "lillianbatwingsoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lillianbatwingsoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lillianbatwingsoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lillianbatwingsoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Vampiress Outfit",
+                "access_rules": 
+                [
+                    "lillianvampiressoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lillianvampiressoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lillianvampiressoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lillianvampiressoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Candy Corn Outfit",
+                "access_rules": 
+                [
+                    "lilliancandycornoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lilliancandycornoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lilliancandycornoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lilliancandycornoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Dark Queen Outfit",
+                "access_rules": 
+                [
+                    "lilliandarkqueenoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lilliandarkqueenoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lilliandarkqueenoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lilliandarkqueenoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Sweet Dreams Outfit",
+                "access_rules": 
+                [
+                    "lilliansweetdreamsoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lilliansweetdreamsoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lilliansweetdreamsoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lilliansweetdreamsoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "lillian",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lillian in Mega Bitch Outfit",
+                "access_rules": 
+                [
+                    "lillianmegabitchoutfit,unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)",
+                    "lillianmegabitchoutfit,unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)",
+                    "lillianmegabitchoutfit,unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)",
+                    "lillianmegabitchoutfit,unlockgirl(lillian),unlockgirl(zoey),pairunlock(lillian|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

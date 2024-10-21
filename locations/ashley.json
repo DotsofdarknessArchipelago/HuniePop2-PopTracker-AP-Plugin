@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Microphone Unique Gift",
+                "access_rules": 
+                [
+                    "microphoneuniquegift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "microphoneuniquegift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "microphoneuniquegift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "microphoneuniquegift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Bass Guitar Unique Gift",
+                "access_rules": 
+                [
+                    "bassguitaruniquegift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "bassguitaruniquegift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "bassguitaruniquegift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "bassguitaruniquegift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Drum Sticks Unique Gift",
+                "access_rules": 
+                [
+                    "drumsticksuniquegift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "drumsticksuniquegift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "drumsticksuniquegift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "drumsticksuniquegift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Guitar Amp Unique Gift",
+                "access_rules": 
+                [
+                    "guitarampuniquegift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "guitarampuniquegift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "guitarampuniquegift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "guitarampuniquegift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Zip Up Gladiators Gift",
+                "access_rules": 
+                [
+                    "zipupgladiatorsgift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "zipupgladiatorsgift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "zipupgladiatorsgift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "zipupgladiatorsgift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Strap Gladiators Gift",
+                "access_rules": 
+                [
+                    "strapgladiatorsgift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "strapgladiatorsgift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "strapgladiatorsgift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "strapgladiatorsgift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Weave Gladiators Gift",
+                "access_rules": 
+                [
+                    "weavegladiatorsgift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "weavegladiatorsgift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "weavegladiatorsgift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "weavegladiatorsgift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift ashley Modest Gladiators Gift",
+                "access_rules": 
+                [
+                    "modestgladiatorsgift,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "modestgladiatorsgift,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "modestgladiatorsgift,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "modestgladiatorsgift,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (ashley|brooke)",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|brooke)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|brooke)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (ashley|lillian)",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|lillian)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (ashley|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (ashley|polly)",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "ashley favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Stay Black Outfit",
+                "access_rules": 
+                [
+                    "ashleystayblackoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleystayblackoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleystayblackoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleystayblackoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Skater Girl Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Punk Rock Outfit",
+                "access_rules": 
+                [
+                    "ashleypunkrockoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleypunkrockoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleypunkrockoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleypunkrockoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in On Brand Outfit",
+                "access_rules": 
+                [
+                    "ashleyonbrandoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleyonbrandoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleyonbrandoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleyonbrandoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Red Thread Outfit",
+                "access_rules": 
+                [
+                    "ashleyredthreadoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleyredthreadoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleyredthreadoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleyredthreadoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Black Fly Outfit",
+                "access_rules": 
+                [
+                    "ashleyblackflyoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleyblackflyoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleyblackflyoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleyblackflyoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Clamouflage Outfit",
+                "access_rules": 
+                [
+                    "ashleyclamouflageoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleyclamouflageoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleyclamouflageoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleyclamouflageoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Bumble Bea Outfit",
+                "access_rules": 
+                [
+                    "ashleybumblebeaoutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleybumblebeaoutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleybumblebeaoutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleybumblebeaoutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Astronautical Outfit",
+                "access_rules": 
+                [
+                    "ashleyastronauticaloutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleyastronauticaloutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleyastronauticaloutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleyastronauticaloutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "ashley",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Ashley in Lazy Teacher Outfit",
+                "access_rules": 
+                [
+                    "ashleylazyteacheroutfit,unlockgirl(ashley),unlockgirl(brooke),pairunlock(ashley|brooke)",
+                    "ashleylazyteacheroutfit,unlockgirl(ashley),unlockgirl(lillian),pairunlock(ashley|lillian)",
+                    "ashleylazyteacheroutfit,unlockgirl(ashley),unlockgirl(nora),pairunlock(ashley|nora)",
+                    "ashleylazyteacheroutfit,unlockgirl(ashley),unlockgirl(polly),pairunlock(ashley|polly)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

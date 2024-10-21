@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Spool of Thread Unique Gift",
+                "access_rules": 
+                [
+                    "spoolofthreaduniquegift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "spoolofthreaduniquegift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "spoolofthreaduniquegift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "spoolofthreaduniquegift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Buttons Unique Gift",
+                "access_rules": 
+                [
+                    "buttonsuniquegift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "buttonsuniquegift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "buttonsuniquegift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "buttonsuniquegift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Pincushion Unique Gift",
+                "access_rules": 
+                [
+                    "pincushionuniquegift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "pincushionuniquegift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "pincushionuniquegift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "pincushionuniquegift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Measuring Tape Unique Gift",
+                "access_rules": 
+                [
+                    "measuringtapeuniquegift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "measuringtapeuniquegift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "measuringtapeuniquegift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "measuringtapeuniquegift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Knitted Boots Gift",
+                "access_rules": 
+                [
+                    "knittedbootsgift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "knittedbootsgift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "knittedbootsgift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "knittedbootsgift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Seasonal Boots Gift",
+                "access_rules": 
+                [
+                    "seasonalbootsgift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "seasonalbootsgift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "seasonalbootsgift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "seasonalbootsgift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Heavy Boots Gift",
+                "access_rules": 
+                [
+                    "heavybootsgift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "heavybootsgift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "heavybootsgift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "heavybootsgift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift lola Fuzzy Boots Gift",
+                "access_rules": 
+                [
+                    "fuzzybootsgift,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "fuzzybootsgift,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "fuzzybootsgift,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "fuzzybootsgift,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (abia|lola)",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (jessie|lola)",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (jessie|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lola|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lola|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lola|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lola|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "lola favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Poppin' Off Outfit",
+                "access_rules": 
+                [
+                    "lolapoppin'offoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolapoppin'offoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolapoppin'offoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolapoppin'offoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Stewardess Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Elegance Outfit",
+                "access_rules": 
+                [
+                    "lolaeleganceoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolaeleganceoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolaeleganceoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolaeleganceoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Cream Puff Outfit",
+                "access_rules": 
+                [
+                    "lolacreampuffoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolacreampuffoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolacreampuffoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolacreampuffoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Jamaikini Outfit",
+                "access_rules": 
+                [
+                    "lolajamaikinioutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolajamaikinioutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolajamaikinioutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolajamaikinioutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Mocha Latte Outfit",
+                "access_rules": 
+                [
+                    "lolamochalatteoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolamochalatteoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolamochalatteoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolamochalatteoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Afrikini Outfit",
+                "access_rules": 
+                [
+                    "lolaafrikinioutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolaafrikinioutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolaafrikinioutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolaafrikinioutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Tennis Outfit",
+                "access_rules": 
+                [
+                    "lolatennisoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolatennisoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolatennisoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolatennisoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Basketball Outfit",
+                "access_rules": 
+                [
+                    "lolabasketballoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolabasketballoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolabasketballoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolabasketballoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "lola",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Lola in Football Outfit",
+                "access_rules": 
+                [
+                    "lolafootballoutfit,unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
+                    "lolafootballoutfit,unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)",
+                    "lolafootballoutfit,unlockgirl(lola),unlockgirl(nora),pairunlock(lola|nora)",
+                    "lolafootballoutfit,unlockgirl(lola),unlockgirl(zoey),pairunlock(lola|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Binky Unique Gift",
+                "access_rules": 
+                [
+                    "binkyuniquegift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "binkyuniquegift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "binkyuniquegift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "binkyuniquegift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Diapers Unique Gift",
+                "access_rules": 
+                [
+                    "diapersuniquegift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "diapersuniquegift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "diapersuniquegift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "diapersuniquegift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Baby Bottle Unique Gift",
+                "access_rules": 
+                [
+                    "babybottleuniquegift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "babybottleuniquegift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "babybottleuniquegift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "babybottleuniquegift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Car Carrier Unique Gift",
+                "access_rules": 
+                [
+                    "carcarrieruniquegift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "carcarrieruniquegift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "carcarrieruniquegift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "carcarrieruniquegift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Ballin' Sneakers Gift",
+                "access_rules": 
+                [
+                    "ballin'sneakersgift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "ballin'sneakersgift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "ballin'sneakersgift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "ballin'sneakersgift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora High Top Sneakers Gift",
+                "access_rules": 
+                [
+                    "hightopsneakersgift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "hightopsneakersgift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "hightopsneakersgift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "hightopsneakersgift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Airy Sneakers Gift",
+                "access_rules": 
+                [
+                    "airysneakersgift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "airysneakersgift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "airysneakersgift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "airysneakersgift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift nora Training Sneakers Gift",
+                "access_rules": 
+                [
+                    "trainingsneakersgift,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "trainingsneakersgift,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "trainingsneakersgift,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "trainingsneakersgift,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (ashley|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (candace|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (candace|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (candace|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lola|nora)",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lola|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lola|nora)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (nora|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (nora|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (nora|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "nora favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Housekeeping Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Caliente Outfit",
+                "access_rules": 
+                [
+                    "noracalienteoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noracalienteoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noracalienteoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noracalienteoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Badass Bitch Outfit",
+                "access_rules": 
+                [
+                    "norabadassbitchoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "norabadassbitchoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "norabadassbitchoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "norabadassbitchoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Streetwear Outfit",
+                "access_rules": 
+                [
+                    "norastreetwearoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "norastreetwearoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "norastreetwearoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "norastreetwearoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Aquarius Outfit",
+                "access_rules": 
+                [
+                    "noraaquariusoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noraaquariusoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noraaquariusoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noraaquariusoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Nighty Night Outfit",
+                "access_rules": 
+                [
+                    "noranightynightoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noranightynightoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noranightynightoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noranightynightoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Spiral Scout Outfit",
+                "access_rules": 
+                [
+                    "noraspiralscoutoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noraspiralscoutoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noraspiralscoutoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noraspiralscoutoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Tough Gal Outfit",
+                "access_rules": 
+                [
+                    "noratoughgaloutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noratoughgaloutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noratoughgaloutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noratoughgaloutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Gangster Outfit",
+                "access_rules": 
+                [
+                    "noragangsteroutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noragangsteroutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noragangsteroutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noragangsteroutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "nora",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Nora in Cousinly Love Outfit",
+                "access_rules": 
+                [
+                    "noracousinlyloveoutfit,unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)",
+                    "noracousinlyloveoutfit,unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)",
+                    "noracousinlyloveoutfit,unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)",
+                    "noracousinlyloveoutfit,unlockgirl(nora),unlockgirl(sarah),pairunlock(nora|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

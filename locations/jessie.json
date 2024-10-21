@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Gin Unique Gift",
+                "access_rules": 
+                [
+                    "ginuniquegift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "ginuniquegift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "ginuniquegift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "ginuniquegift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Rum Unique Gift",
+                "access_rules": 
+                [
+                    "rumuniquegift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "rumuniquegift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "rumuniquegift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "rumuniquegift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Whisky Unique Gift",
+                "access_rules": 
+                [
+                    "whiskyuniquegift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "whiskyuniquegift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "whiskyuniquegift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "whiskyuniquegift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Vodka Unique Gift",
+                "access_rules": 
+                [
+                    "vodkauniquegift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "vodkauniquegift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "vodkauniquegift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "vodkauniquegift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Angel Peep Toes Gift",
+                "access_rules": 
+                [
+                    "angelpeeptoesgift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "angelpeeptoesgift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "angelpeeptoesgift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "angelpeeptoesgift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Plaid Peep Toes Gift",
+                "access_rules": 
+                [
+                    "plaidpeeptoesgift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "plaidpeeptoesgift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "plaidpeeptoesgift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "plaidpeeptoesgift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Ribbon Peep Toes Gift",
+                "access_rules": 
+                [
+                    "ribbonpeeptoesgift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "ribbonpeeptoesgift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "ribbonpeeptoesgift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "ribbonpeeptoesgift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift jessie Leopard Peep Toes Gift",
+                "access_rules": 
+                [
+                    "leopardpeeptoesgift,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "leopardpeeptoesgift,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "leopardpeeptoesgift,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "leopardpeeptoesgift,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (abia|jessie)",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (abia|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (abia|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (brooke|jessie)",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (brooke|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (jessie|lailani)",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (jessie|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lailani)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (jessie|lola)",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (jessie|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (jessie|lola)",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "jessie favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Hibiscus Outfit",
+                "access_rules": 
+                [
+                    "jessiehibiscusoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiehibiscusoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiehibiscusoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiehibiscusoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Leopard Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Pillow Talk Outfit",
+                "access_rules": 
+                [
+                    "jessiepillowtalkoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiepillowtalkoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiepillowtalkoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiepillowtalkoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Tiffany Outfit",
+                "access_rules": 
+                [
+                    "jessietiffanyoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessietiffanyoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessietiffanyoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessietiffanyoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Blue Wave Outfit",
+                "access_rules": 
+                [
+                    "jessiebluewaveoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiebluewaveoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiebluewaveoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiebluewaveoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Cloud Nine Outfit",
+                "access_rules": 
+                [
+                    "jessiecloudnineoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiecloudnineoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiecloudnineoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiecloudnineoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Naughty List Outfit",
+                "access_rules": 
+                [
+                    "jessienaughtylistoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessienaughtylistoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessienaughtylistoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessienaughtylistoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Sweet Angel Outfit",
+                "access_rules": 
+                [
+                    "jessiesweetangeloutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiesweetangeloutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiesweetangeloutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiesweetangeloutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Sinful Devil Outfit",
+                "access_rules": 
+                [
+                    "jessiesinfuldeviloutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiesinfuldeviloutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiesinfuldeviloutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiesinfuldeviloutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "jessie",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Jessie in Wrapped Up Outfit",
+                "access_rules": 
+                [
+                    "jessiewrappedupoutfit,unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)",
+                    "jessiewrappedupoutfit,unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)",
+                    "jessiewrappedupoutfit,unlockgirl(jessie),unlockgirl(lailani),pairunlock(jessie|lailani)",
+                    "jessiewrappedupoutfit,unlockgirl(jessie),unlockgirl(lola),pairunlock(jessie|lola)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

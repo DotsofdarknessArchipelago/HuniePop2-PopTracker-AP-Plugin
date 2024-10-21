@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Manga Book Unique Gift",
+                "access_rules": 
+                [
+                    "mangabookuniquegift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "mangabookuniquegift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "mangabookuniquegift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "mangabookuniquegift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Booby Mousepad Unique Gift",
+                "access_rules": 
+                [
+                    "boobymousepaduniquegift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "boobymousepaduniquegift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "boobymousepaduniquegift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "boobymousepaduniquegift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Cellphone Cover Unique Gift",
+                "access_rules": 
+                [
+                    "cellphonecoveruniquegift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "cellphonecoveruniquegift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "cellphonecoveruniquegift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "cellphonecoveruniquegift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Chibi Figurine Unique Gift",
+                "access_rules": 
+                [
+                    "chibifigurineuniquegift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "chibifigurineuniquegift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "chibifigurineuniquegift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "chibifigurineuniquegift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Geta Platforms Gift",
+                "access_rules": 
+                [
+                    "getaplatformsgift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "getaplatformsgift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "getaplatformsgift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "getaplatformsgift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Candy Platforms Gift",
+                "access_rules": 
+                [
+                    "candyplatformsgift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "candyplatformsgift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "candyplatformsgift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "candyplatformsgift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Rainbow Platforms Gift",
+                "access_rules": 
+                [
+                    "rainbowplatformsgift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "rainbowplatformsgift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "rainbowplatformsgift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "rainbowplatformsgift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift sarah Star Platforms Gift",
+                "access_rules": 
+                [
+                    "starplatformsgift,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "starplatformsgift,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "starplatformsgift,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "starplatformsgift,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (brooke|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (brooke|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (lailani|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (lailani|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (lailani|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (nora|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (nora|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (nora|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (sarah|zoey)",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (sarah|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (sarah|zoey)",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "sarah favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Kimonochi Outfit",
+                "access_rules": 
+                [
+                    "sarahkimonochioutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahkimonochioutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahkimonochioutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahkimonochioutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Ganguro Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Over All Outfit",
+                "access_rules": 
+                [
+                    "sarahoveralloutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahoveralloutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahoveralloutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahoveralloutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Sailor Outfit",
+                "access_rules": 
+                [
+                    "sarahsailoroutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahsailoroutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahsailoroutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahsailoroutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Bubble Bath Outfit",
+                "access_rules": 
+                [
+                    "sarahbubblebathoutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahbubblebathoutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahbubblebathoutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahbubblebathoutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Kitty Kat Outfit",
+                "access_rules": 
+                [
+                    "sarahkittykatoutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahkittykatoutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahkittykatoutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahkittykatoutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Cow Girl Outfit",
+                "access_rules": 
+                [
+                    "sarahcowgirloutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahcowgirloutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahcowgirloutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahcowgirloutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Panda Hoodie Outfit",
+                "access_rules": 
+                [
+                    "sarahpandahoodieoutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahpandahoodieoutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahpandahoodieoutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahpandahoodieoutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Turbo Skank Outfit",
+                "access_rules": 
+                [
+                    "sarahturboskankoutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahturboskankoutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahturboskankoutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahturboskankoutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "sarah",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Sarah in Healing Touch Outfit",
+                "access_rules": 
+                [
+                    "sarahhealingtouchoutfit,unlockgirl(sarah),unlockgirl(brooke),pairunlock(brooke|sarah)",
+                    "sarahhealingtouchoutfit,unlockgirl(sarah),unlockgirl(lailani),pairunlock(lailani|sarah)",
+                    "sarahhealingtouchoutfit,unlockgirl(sarah),unlockgirl(nora),pairunlock(nora|sarah)",
+                    "sarahhealingtouchoutfit,unlockgirl(sarah),unlockgirl(zoey),pairunlock(sarah|zoey)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]

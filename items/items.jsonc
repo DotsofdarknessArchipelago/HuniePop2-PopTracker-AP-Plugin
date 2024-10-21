@@ -1,0 +1,1871 @@
+[
+    {
+        "name": "pairunlock(abia|candace)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.candace).png",
+        "codes": "pairunlock(abia|candace)"
+    },
+    {
+        "name": "pairunlock(abia|jessie)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.jessie).png",
+        "codes": "pairunlock(abia|jessie)"
+    },
+    {
+        "name": "pairunlock(abia|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.lillian).png",
+        "codes": "pairunlock(abia|lillian)"
+    },
+    {
+        "name": "pairunlock(abia|lola)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(abia.lola).png",
+        "codes": "pairunlock(abia|lola)"
+    },
+    {
+        "name": "pairunlock(ashley|brooke)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.brooke).png",
+        "codes": "pairunlock(ashley|brooke)"
+    },
+    {
+        "name": "pairunlock(ashley|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.lillian).png",
+        "codes": "pairunlock(ashley|lillian)"
+    },
+    {
+        "name": "pairunlock(ashley|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.nora).png",
+        "codes": "pairunlock(ashley|nora)"
+    },
+    {
+        "name": "pairunlock(ashley|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(ashley.polly).png",
+        "codes": "pairunlock(ashley|polly)"
+    },
+    {
+        "name": "pairunlock(brooke|jessie)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.jessie).png",
+        "codes": "pairunlock(brooke|jessie)"
+    },
+    {
+        "name": "pairunlock(brooke|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.polly).png",
+        "codes": "pairunlock(brooke|polly)"
+    },
+    {
+        "name": "pairunlock(brooke|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(brooke.sarah).png",
+        "codes": "pairunlock(brooke|sarah)"
+    },
+    {
+        "name": "pairunlock(candace|lailani)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.lailani).png",
+        "codes": "pairunlock(candace|lailani)"
+    },
+    {
+        "name": "pairunlock(candace|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.nora).png",
+        "codes": "pairunlock(candace|nora)"
+    },
+    {
+        "name": "pairunlock(candace|polly)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(candace.polly).png",
+        "codes": "pairunlock(candace|polly)"
+    },
+    {
+        "name": "pairunlock(jessie|lailani)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(jessie.lailani).png",
+        "codes": "pairunlock(jessie|lailani)"
+    },
+    {
+        "name": "pairunlock(jessie|lola)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(jessie.lola).png",
+        "codes": "pairunlock(jessie|lola)"
+    },
+    {
+        "name": "pairunlock(lailani|lillian)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lailani.lillian).png",
+        "codes": "pairunlock(lailani|lillian)"
+    },
+    {
+        "name": "pairunlock(lailani|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lailani.sarah).png",
+        "codes": "pairunlock(lailani|sarah)"
+    },
+    {
+        "name": "pairunlock(lillian|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lillian.zoey).png",
+        "codes": "pairunlock(lillian|zoey)"
+    },
+    {
+        "name": "pairunlock(lola|nora)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lola.nora).png",
+        "codes": "pairunlock(lola|nora)"
+    },
+    {
+        "name": "pairunlock(lola|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(lola.zoey).png",
+        "codes": "pairunlock(lola|zoey)"
+    },
+    {
+        "name": "pairunlock(nora|sarah)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(nora.sarah).png",
+        "codes": "pairunlock(nora|sarah)"
+    },
+    {
+        "name": "pairunlock(polly|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(polly.zoey).png",
+        "codes": "pairunlock(polly|zoey)"
+    },
+    {
+        "name": "pairunlock(sarah|zoey)",
+        "type": "toggle",
+        "img": "images/items/pairunlock(sarah.zoey).png",
+        "codes": "pairunlock(sarah|zoey)"
+    },
+
+
+
+
+    {
+        "name": "unlockgirl(abia)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(abia).png",
+        "codes": "unlockgirl(abia)"
+    },
+    {
+        "name": "unlockgirl(ashley)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(ashley).png",
+        "codes": "unlockgirl(ashley)"
+    },
+    {
+        "name": "unlockgirl(brooke)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(brooke).png",
+        "codes": "unlockgirl(brooke)"
+    },
+    {
+        "name": "unlockgirl(candace)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(candace).png",
+        "codes": "unlockgirl(candace)"
+    },
+    {
+        "name": "unlockgirl(jessie)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(jessie).png",
+        "codes": "unlockgirl(jessie)"
+    },
+    {
+        "name": "unlockgirl(lailani)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lailani).png",
+        "codes": "unlockgirl(lailani)"
+    },
+    {
+        "name": "unlockgirl(lillian)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lillian).png",
+        "codes": "unlockgirl(lillian)"
+    },
+    {
+        "name": "unlockgirl(lola)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(lola).png",
+        "codes": "unlockgirl(lola)"
+    },
+    {
+        "name": "unlockgirl(nora)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(nora).png",
+        "codes": "unlockgirl(nora)"
+    },
+    {
+        "name": "unlockgirl(polly)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(polly).png",
+        "codes": "unlockgirl(polly)"
+    },
+    {
+        "name": "unlockgirl(sarah)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(sarah).png",
+        "codes": "unlockgirl(sarah)"
+    },
+    {
+        "name": "unlockgirl(zoey)",
+        "type": "toggle",
+        "img": "images/items/unlockgirl(zoey).png",
+        "codes": "unlockgirl(zoey)"
+    },
+
+
+
+    {
+        "name": "spankingpaddleuniquegift",
+        "type": "toggle",
+        "img": "images/items/abiaunique1.png",
+        "codes": "spankingpaddleuniquegift"
+    },
+    {
+        "name": "ballgaguniquegift",
+        "type": "toggle",
+        "img": "images/items/abiaunique2.png",
+        "codes": "ballgaguniquegift"
+    },
+    {
+        "name": "nippleclampsuniquegift",
+        "type": "toggle",
+        "img": "images/items/abiaunique3.png",
+        "codes": "nippleclampsuniquegift"
+    },
+    {
+        "name": "handcuffsuniquegift",
+        "type": "toggle",
+        "img": "images/items/abiaunique4.png",
+        "codes": "handcuffsuniquegift"
+    },
+    {
+        "name": "microphoneuniquegift",
+        "type": "toggle",
+        "img": "images/items/ashleyunique1.png",
+        "codes": "microphoneuniquegift"
+    },
+    {
+        "name": "bassguitaruniquegift",
+        "type": "toggle",
+        "img": "images/items/ashleyunique2.png",
+        "codes": "bassguitaruniquegift"
+    },
+    {
+        "name": "drumsticksuniquegift",
+        "type": "toggle",
+        "img": "images/items/ashleyunique3.png",
+        "codes": "drumsticksuniquegift"
+    },
+    {
+        "name": "guitarampuniquegift",
+        "type": "toggle",
+        "img": "images/items/ashleyunique4.png",
+        "codes": "guitarampuniquegift"
+    },
+    {
+        "name": "clutchpurseuniquegift",
+        "type": "toggle",
+        "img": "images/items/brookeunique1.png",
+        "codes": "clutchpurseuniquegift"
+    },
+    {
+        "name": "shoulderbaguniquegift",
+        "type": "toggle",
+        "img": "images/items/brookeunique2.png",
+        "codes": "shoulderbaguniquegift"
+    },
+    {
+        "name": "quiltedhandbaguniquegift",
+        "type": "toggle",
+        "img": "images/items/brookeunique3.png",
+        "codes": "quiltedhandbaguniquegift"
+    },
+    {
+        "name": "eleganttotebaguniquegift",
+        "type": "toggle",
+        "img": "images/items/brookeunique4.png",
+        "codes": "eleganttotebaguniquegift"
+    },
+    {
+        "name": "letterblocksuniquegift",
+        "type": "toggle",
+        "img": "images/items/candaceunique1.png",
+        "codes": "letterblocksuniquegift"
+    },
+    {
+        "name": "ringstackeruniquegift",
+        "type": "toggle",
+        "img": "images/items/candaceunique2.png",
+        "codes": "ringstackeruniquegift"
+    },
+    {
+        "name": "shapesblockuniquegift",
+        "type": "toggle",
+        "img": "images/items/candaceunique3.png",
+        "codes": "shapesblockuniquegift"
+    },
+    {
+        "name": "animalwheeluniquegift",
+        "type": "toggle",
+        "img": "images/items/candaceunique4.png",
+        "codes": "animalwheeluniquegift"
+    },
+    {
+        "name": "ginuniquegift",
+        "type": "toggle",
+        "img": "images/items/jessieunique1.png",
+        "codes": "ginuniquegift"
+    },
+    {
+        "name": "rumuniquegift",
+        "type": "toggle",
+        "img": "images/items/jessieunique2.png",
+        "codes": "rumuniquegift"
+    },
+    {
+        "name": "whiskyuniquegift",
+        "type": "toggle",
+        "img": "images/items/jessieunique3.png",
+        "codes": "whiskyuniquegift"
+    },
+    {
+        "name": "vodkauniquegift",
+        "type": "toggle",
+        "img": "images/items/jessieunique4.png",
+        "codes": "vodkauniquegift"
+    },
+    {
+        "name": "bathsaltsuniquegift",
+        "type": "toggle",
+        "img": "images/items/lailaniunique1.png",
+        "codes": "bathsaltsuniquegift"
+    },
+    {
+        "name": "hotstonesuniquegift",
+        "type": "toggle",
+        "img": "images/items/lailaniunique2.png",
+        "codes": "hotstonesuniquegift"
+    },
+    {
+        "name": "loofahspongeuniquegift",
+        "type": "toggle",
+        "img": "images/items/lailaniunique3.png",
+        "codes": "loofahspongeuniquegift"
+    },
+    {
+        "name": "warmtowelsuniquegift",
+        "type": "toggle",
+        "img": "images/items/lailaniunique4.png",
+        "codes": "warmtowelsuniquegift"
+    },
+    {
+        "name": "witchhatuniquegift",
+        "type": "toggle",
+        "img": "images/items/lillianunique1.png",
+        "codes": "witchhatuniquegift"
+    },
+    {
+        "name": "jack-o'-lanternuniquegift",
+        "type": "toggle",
+        "img": "images/items/lillianunique2.png",
+        "codes": "jack-o'-lanternuniquegift"
+    },
+    {
+        "name": "ouijaboarduniquegift",
+        "type": "toggle",
+        "img": "images/items/lillianunique3.png",
+        "codes": "ouijaboarduniquegift"
+    },
+    {
+        "name": "voodoodolluniquegift",
+        "type": "toggle",
+        "img": "images/items/lillianunique4.png",
+        "codes": "voodoodolluniquegift"
+    },
+    {
+        "name": "spoolofthreaduniquegift",
+        "type": "toggle",
+        "img": "images/items/lolaunique1.png",
+        "codes": "spoolofthreaduniquegift"
+    },
+    {
+        "name": "buttonsuniquegift",
+        "type": "toggle",
+        "img": "images/items/lolaunique2.png",
+        "codes": "buttonsuniquegift"
+    },
+    {
+        "name": "pincushionuniquegift",
+        "type": "toggle",
+        "img": "images/items/lolaunique3.png",
+        "codes": "pincushionuniquegift"
+    },
+    {
+        "name": "measuringtapeuniquegift",
+        "type": "toggle",
+        "img": "images/items/lolaunique4.png",
+        "codes": "measuringtapeuniquegift"
+    },
+    {
+        "name": "binkyuniquegift",
+        "type": "toggle",
+        "img": "images/items/noraunique1.png",
+        "codes": "binkyuniquegift"
+    },
+    {
+        "name": "diapersuniquegift",
+        "type": "toggle",
+        "img": "images/items/noraunique2.png",
+        "codes": "diapersuniquegift"
+    },
+    {
+        "name": "babybottleuniquegift",
+        "type": "toggle",
+        "img": "images/items/noraunique3.png",
+        "codes": "babybottleuniquegift"
+    },
+    {
+        "name": "carcarrieruniquegift",
+        "type": "toggle",
+        "img": "images/items/noraunique4.png",
+        "codes": "carcarrieruniquegift"
+    },
+    {
+        "name": "televisionuniquegift",
+        "type": "toggle",
+        "img": "images/items/pollyunique1.png",
+        "codes": "televisionuniquegift"
+    },
+    {
+        "name": "jukeboxuniquegift",
+        "type": "toggle",
+        "img": "images/items/pollyunique2.png",
+        "codes": "jukeboxuniquegift"
+    },
+    {
+        "name": "phonographuniquegift",
+        "type": "toggle",
+        "img": "images/items/pollyunique3.png",
+        "codes": "phonographuniquegift"
+    },
+    {
+        "name": "radiouniquegift",
+        "type": "toggle",
+        "img": "images/items/pollyunique4.png",
+        "codes": "radiouniquegift"
+    },
+    {
+        "name": "mangabookuniquegift",
+        "type": "toggle",
+        "img": "images/items/sarahunique1.png",
+        "codes": "mangabookuniquegift"
+    },
+    {
+        "name": "boobymousepaduniquegift",
+        "type": "toggle",
+        "img": "images/items/sarahunique2.png",
+        "codes": "boobymousepaduniquegift"
+    },
+    {
+        "name": "cellphonecoveruniquegift",
+        "type": "toggle",
+        "img": "images/items/sarahunique3.png",
+        "codes": "cellphonecoveruniquegift"
+    },
+    {
+        "name": "chibifigurineuniquegift",
+        "type": "toggle",
+        "img": "images/items/sarahunique4.png",
+        "codes": "chibifigurineuniquegift"
+    },
+    {
+        "name": "crystalsuniquegift",
+        "type": "toggle",
+        "img": "images/items/zoeyunique1.png",
+        "codes": "crystalsuniquegift"
+    },
+    {
+        "name": "crystalballuniquegift",
+        "type": "toggle",
+        "img": "images/items/zoeyunique2.png",
+        "codes": "crystalballuniquegift"
+    },
+    {
+        "name": "hourglassuniquegift",
+        "type": "toggle",
+        "img": "images/items/zoeyunique3.png",
+        "codes": "hourglassuniquegift"
+    },
+    {
+        "name": "tarotcardsuniquegift",
+        "type": "toggle",
+        "img": "images/items/zoeyunique4.png",
+        "codes": "tarotcardsuniquegift"
+    },
+
+
+
+
+    {
+        "name": "craftedflatsgift",
+        "type": "toggle",
+        "img": "images/items/abiashoe1.png",
+        "codes": "craftedflatsgift"
+    },
+    {
+        "name": "basicflatsgift",
+        "type": "toggle",
+        "img": "images/items/abiashoe2.png",
+        "codes": "basicflatsgift"
+    },
+    {
+        "name": "floralflatsgift",
+        "type": "toggle",
+        "img": "images/items/abiashoe3.png",
+        "codes": "floralflatsgift"
+    },
+    {
+        "name": "cozyflatsgift",
+        "type": "toggle",
+        "img": "images/items/abiashoe4.png",
+        "codes": "cozyflatsgift"
+    },
+    {
+        "name": "zipupgladiatorsgift",
+        "type": "toggle",
+        "img": "images/items/ashleyshoe1.png",
+        "codes": "zipupgladiatorsgift"
+    },
+    {
+        "name": "strapgladiatorsgift",
+        "type": "toggle",
+        "img": "images/items/ashleyshoe2.png",
+        "codes": "strapgladiatorsgift"
+    },
+    {
+        "name": "weavegladiatorsgift",
+        "type": "toggle",
+        "img": "images/items/ashleyshoe3.png",
+        "codes": "weavegladiatorsgift"
+    },
+    {
+        "name": "modestgladiatorsgift",
+        "type": "toggle",
+        "img": "images/items/ashleyshoe4.png",
+        "codes": "modestgladiatorsgift"
+    },
+    {
+        "name": "charcoalwedgesgift",
+        "type": "toggle",
+        "img": "images/items/brookeshoe1.png",
+        "codes": "charcoalwedgesgift"
+    },
+    {
+        "name": "corkwedgesgift",
+        "type": "toggle",
+        "img": "images/items/brookeshoe2.png",
+        "codes": "corkwedgesgift"
+    },
+    {
+        "name": "woodenwedgesgift",
+        "type": "toggle",
+        "img": "images/items/brookeshoe3.png",
+        "codes": "woodenwedgesgift"
+    },
+    {
+        "name": "denimwedgesgift",
+        "type": "toggle",
+        "img": "images/items/brookeshoe4.png",
+        "codes": "denimwedgesgift"
+    },
+    {
+        "name": "glitteryheelsgift",
+        "type": "toggle",
+        "img": "images/items/candaceshoe1.png",
+        "codes": "glitteryheelsgift"
+    },
+    {
+        "name": "studdedheelsgift",
+        "type": "toggle",
+        "img": "images/items/candaceshoe2.png",
+        "codes": "studdedheelsgift"
+    },
+    {
+        "name": "neonheelsgift",
+        "type": "toggle",
+        "img": "images/items/candaceshoe3.png",
+        "codes": "neonheelsgift"
+    },
+    {
+        "name": "clearheelsgift",
+        "type": "toggle",
+        "img": "images/items/candaceshoe4.png",
+        "codes": "clearheelsgift"
+    },
+    {
+        "name": "angelpeeptoesgift",
+        "type": "toggle",
+        "img": "images/items/jessieshoe1.png",
+        "codes": "angelpeeptoesgift"
+    },
+    {
+        "name": "plaidpeeptoesgift",
+        "type": "toggle",
+        "img": "images/items/jessieshoe2.png",
+        "codes": "plaidpeeptoesgift"
+    },
+    {
+        "name": "ribbonpeeptoesgift",
+        "type": "toggle",
+        "img": "images/items/jessieshoe3.png",
+        "codes": "ribbonpeeptoesgift"
+    },
+    {
+        "name": "leopardpeeptoesgift",
+        "type": "toggle",
+        "img": "images/items/jessieshoe4.png",
+        "codes": "leopardpeeptoesgift"
+    },
+    {
+        "name": "palmflipflopsgift",
+        "type": "toggle",
+        "img": "images/items/lailanishoe1.png",
+        "codes": "palmflipflopsgift"
+    },
+    {
+        "name": "melonflipflopsgift",
+        "type": "toggle",
+        "img": "images/items/lailanishoe2.png",
+        "codes": "melonflipflopsgift"
+    },
+    {
+        "name": "aquaflipflopsgift",
+        "type": "toggle",
+        "img": "images/items/lailanishoe3.png",
+        "codes": "aquaflipflopsgift"
+    },
+    {
+        "name": "gardenflipflopsgift",
+        "type": "toggle",
+        "img": "images/items/lailanishoe4.png",
+        "codes": "gardenflipflopsgift"
+    },
+    {
+        "name": "suedebootiesgift",
+        "type": "toggle",
+        "img": "images/items/lillianshoe1.png",
+        "codes": "suedebootiesgift"
+    },
+    {
+        "name": "stripedbootiesgift",
+        "type": "toggle",
+        "img": "images/items/lillianshoe2.png",
+        "codes": "stripedbootiesgift"
+    },
+    {
+        "name": "gothbootiesgift",
+        "type": "toggle",
+        "img": "images/items/lillianshoe3.png",
+        "codes": "gothbootiesgift"
+    },
+    {
+        "name": "satanicbootiesgift",
+        "type": "toggle",
+        "img": "images/items/lillianshoe4.png",
+        "codes": "satanicbootiesgift"
+    },
+    {
+        "name": "knittedbootsgift",
+        "type": "toggle",
+        "img": "images/items/lolashoe1.png",
+        "codes": "knittedbootsgift"
+    },
+    {
+        "name": "seasonalbootsgift",
+        "type": "toggle",
+        "img": "images/items/lolashoe2.png",
+        "codes": "seasonalbootsgift"
+    },
+    {
+        "name": "heavybootsgift",
+        "type": "toggle",
+        "img": "images/items/lolashoe3.png",
+        "codes": "heavybootsgift"
+    },
+    {
+        "name": "fuzzybootsgift",
+        "type": "toggle",
+        "img": "images/items/lolashoe4.png",
+        "codes": "fuzzybootsgift"
+    },
+    {
+        "name": "ballin'sneakersgift",
+        "type": "toggle",
+        "img": "images/items/norashoe1.png",
+        "codes": "ballin'sneakersgift"
+    },
+    {
+        "name": "hightopsneakersgift",
+        "type": "toggle",
+        "img": "images/items/norashoe2.png",
+        "codes": "hightopsneakersgift"
+    },
+    {
+        "name": "airysneakersgift",
+        "type": "toggle",
+        "img": "images/items/norashoe3.png",
+        "codes": "airysneakersgift"
+    },
+    {
+        "name": "trainingsneakersgift",
+        "type": "toggle",
+        "img": "images/items/norashoe4.png",
+        "codes": "trainingsneakersgift"
+    },
+    {
+        "name": "girlypumpsgift",
+        "type": "toggle",
+        "img": "images/items/pollyshoe1.png",
+        "codes": "girlypumpsgift"
+    },
+    {
+        "name": "classypumpsgift",
+        "type": "toggle",
+        "img": "images/items/pollyshoe2.png",
+        "codes": "classypumpsgift"
+    },
+    {
+        "name": "shinypumpsgift",
+        "type": "toggle",
+        "img": "images/items/pollyshoe3.png",
+        "codes": "shinypumpsgift"
+    },
+    {
+        "name": "polkadotpumpsgift",
+        "type": "toggle",
+        "img": "images/items/pollyshoe4.png",
+        "codes": "polkadotpumpsgift"
+    },
+    {
+        "name": "getaplatformsgift",
+        "type": "toggle",
+        "img": "images/items/sarahshoe1.png",
+        "codes": "getaplatformsgift"
+    },
+    {
+        "name": "candyplatformsgift",
+        "type": "toggle",
+        "img": "images/items/sarahshoe2.png",
+        "codes": "candyplatformsgift"
+    },
+    {
+        "name": "rainbowplatformsgift",
+        "type": "toggle",
+        "img": "images/items/sarahshoe3.png",
+        "codes": "rainbowplatformsgift"
+    },
+    {
+        "name": "starplatformsgift",
+        "type": "toggle",
+        "img": "images/items/sarahshoe4.png",
+        "codes": "starplatformsgift"
+    },
+    {
+        "name": "astrobootsgift",
+        "type": "toggle",
+        "img": "images/items/zoeyshoe1.png",
+        "codes": "astrobootsgift"
+    },
+    {
+        "name": "sacredbootsgift",
+        "type": "toggle",
+        "img": "images/items/zoeyshoe2.png",
+        "codes": "sacredbootsgift"
+    },
+    {
+        "name": "sherbetbootsgift",
+        "type": "toggle",
+        "img": "images/items/zoeyshoe3.png",
+        "codes": "sherbetbootsgift"
+    },
+    {
+        "name": "hydrobootsgift",
+        "type": "toggle",
+        "img": "images/items/zoeyshoe4.png",
+        "codes": "hydrobootsgift"
+    },
+
+
+
+
+    {
+        "name": "abiatraditionaloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "abiatraditionaloutfit"
+    },
+    {
+        "name": "abiaflaroraoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaflaroraoutfit"
+    },
+    {
+        "name": "abiamodestyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiamodestyoutfit"
+    },
+    {
+        "name": "abiaarabianallureoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaarabianallureoutfit"
+    },
+    {
+        "name": "abiainvisikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiainvisikinioutfit"
+    },
+    {
+        "name": "abiasilkroadoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiasilkroadoutfit"
+    },
+    {
+        "name": "abiamorningdelightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiamorningdelightoutfit"
+    },
+    {
+        "name": "abiaairportsecurityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaairportsecurityoutfit"
+    },
+    {
+        "name": "abiaassassinoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiaassassinoutfit"
+    },
+    {
+        "name": "abiabirthdaysuitoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "abiabirthdaysuitoutfit"
+    },
+    {
+        "name": "ashleystayblackoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleystayblackoutfit"
+    },
+    {
+        "name": "ashleyskatergirloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyskatergirloutfit"
+    },
+    {
+        "name": "ashleypunkrockoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleypunkrockoutfit"
+    },
+    {
+        "name": "ashleyonbrandoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyonbrandoutfit"
+    },
+    {
+        "name": "ashleyredthreadoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyredthreadoutfit"
+    },
+    {
+        "name": "ashleyblackflyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyblackflyoutfit"
+    },
+    {
+        "name": "ashleyclamouflageoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyclamouflageoutfit"
+    },
+    {
+        "name": "ashleybumblebeaoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleybumblebeaoutfit"
+    },
+    {
+        "name": "ashleyastronauticaloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleyastronauticaloutfit"
+    },
+    {
+        "name": "ashleylazyteacheroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "ashleylazyteacheroutfit"
+    },
+    {
+        "name": "brookebathtimeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookebathtimeoutfit"
+    },
+    {
+        "name": "brookeprofessionaloutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "brookeprofessionaloutfit"
+    },
+    {
+        "name": "brookepricelessoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookepricelessoutfit"
+    },
+    {
+        "name": "brookekitchencookoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookekitchencookoutfit"
+    },
+    {
+        "name": "brookevikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookevikinioutfit"
+    },
+    {
+        "name": "brookecougaroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookecougaroutfit"
+    },
+    {
+        "name": "brookestars&stripesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookestars&stripesoutfit"
+    },
+    {
+        "name": "brookecaptainmommyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookecaptainmommyoutfit"
+    },
+    {
+        "name": "brookeglamorousoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookeglamorousoutfit"
+    },
+    {
+        "name": "brookelovegoddessoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "brookelovegoddessoutfit"
+    },
+    {
+        "name": "candacebuckledupoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacebuckledupoutfit"
+    },
+    {
+        "name": "candacecandywrapperoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "candacecandywrapperoutfit"
+    },
+    {
+        "name": "candacevanillacreamoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacevanillacreamoutfit"
+    },
+    {
+        "name": "candaceshinytreasureoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceshinytreasureoutfit"
+    },
+    {
+        "name": "candacesplishsplashoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacesplishsplashoutfit"
+    },
+    {
+        "name": "candacestrawberrymilkoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacestrawberrymilkoutfit"
+    },
+    {
+        "name": "candaceonaholeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceonaholeoutfit"
+    },
+    {
+        "name": "candacelaw&orderoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacelaw&orderoutfit"
+    },
+    {
+        "name": "candacehealthcareoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candacehealthcareoutfit"
+    },
+    {
+        "name": "candaceflasheroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "candaceflasheroutfit"
+    },
+    {
+        "name": "jessiehibiscusoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiehibiscusoutfit"
+    },
+    {
+        "name": "jessieleopardoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "jessieleopardoutfit"
+    },
+    {
+        "name": "jessiepillowtalkoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiepillowtalkoutfit"
+    },
+    {
+        "name": "jessietiffanyoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessietiffanyoutfit"
+    },
+    {
+        "name": "jessiebluewaveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiebluewaveoutfit"
+    },
+    {
+        "name": "jessiecloudnineoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiecloudnineoutfit"
+    },
+    {
+        "name": "jessienaughtylistoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessienaughtylistoutfit"
+    },
+    {
+        "name": "jessiesweetangeloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiesweetangeloutfit"
+    },
+    {
+        "name": "jessiesinfuldeviloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiesinfuldeviloutfit"
+    },
+    {
+        "name": "jessiewrappedupoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "jessiewrappedupoutfit"
+    },
+    {
+        "name": "lailaniseafoamoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniseafoamoutfit"
+    },
+    {
+        "name": "lailanisarongsongoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lailanisarongsongoutfit"
+    },
+    {
+        "name": "lailanisunnydayoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanisunnydayoutfit"
+    },
+    {
+        "name": "lailanihuladanceroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanihuladanceroutfit"
+    },
+    {
+        "name": "lailaniinfinityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniinfinityoutfit"
+    },
+    {
+        "name": "lailanimasseuseoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanimasseuseoutfit"
+    },
+    {
+        "name": "lailanikoimonooutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailanikoimonooutfit"
+    },
+    {
+        "name": "lailaninativechicoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaninativechicoutfit"
+    },
+    {
+        "name": "lailaniblupeeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniblupeeoutfit"
+    },
+    {
+        "name": "lailaniclosetfreakoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lailaniclosetfreakoutfit"
+    },
+    {
+        "name": "lillianpandabareoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianpandabareoutfit"
+    },
+    {
+        "name": "lillianmallgothoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lillianmallgothoutfit"
+    },
+    {
+        "name": "lillianpentagramoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianpentagramoutfit"
+    },
+    {
+        "name": "lilliantrappedsouloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliantrappedsouloutfit"
+    },
+    {
+        "name": "lillianbatwingsoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianbatwingsoutfit"
+    },
+    {
+        "name": "lillianvampiressoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianvampiressoutfit"
+    },
+    {
+        "name": "lilliancandycornoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliancandycornoutfit"
+    },
+    {
+        "name": "lilliandarkqueenoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliandarkqueenoutfit"
+    },
+    {
+        "name": "lilliansweetdreamsoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lilliansweetdreamsoutfit"
+    },
+    {
+        "name": "lillianmegabitchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lillianmegabitchoutfit"
+    },
+    {
+        "name": "lolapoppin'offoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolapoppin'offoutfit"
+    },
+    {
+        "name": "lolastewardessoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "lolastewardessoutfit"
+    },
+    {
+        "name": "lolaeleganceoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolaeleganceoutfit"
+    },
+    {
+        "name": "lolacreampuffoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolacreampuffoutfit"
+    },
+    {
+        "name": "lolajamaikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolajamaikinioutfit"
+    },
+    {
+        "name": "lolamochalatteoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolamochalatteoutfit"
+    },
+    {
+        "name": "lolaafrikinioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolaafrikinioutfit"
+    },
+    {
+        "name": "lolatennisoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolatennisoutfit"
+    },
+    {
+        "name": "lolabasketballoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolabasketballoutfit"
+    },
+    {
+        "name": "lolafootballoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "lolafootballoutfit"
+    },
+    {
+        "name": "norahousekeepingoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "norahousekeepingoutfit"
+    },
+    {
+        "name": "noracalienteoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noracalienteoutfit"
+    },
+    {
+        "name": "norabadassbitchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "norabadassbitchoutfit"
+    },
+    {
+        "name": "norastreetwearoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "norastreetwearoutfit"
+    },
+    {
+        "name": "noraaquariusoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noraaquariusoutfit"
+    },
+    {
+        "name": "noranightynightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noranightynightoutfit"
+    },
+    {
+        "name": "noraspiralscoutoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noraspiralscoutoutfit"
+    },
+    {
+        "name": "noratoughgaloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noratoughgaloutfit"
+    },
+    {
+        "name": "noragangsteroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noragangsteroutfit"
+    },
+    {
+        "name": "noracousinlyloveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "noracousinlyloveoutfit"
+    },
+    {
+        "name": "pollyfiftiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyfiftiesoutfit"
+    },
+    {
+        "name": "pollyfortiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyfortiesoutfit"
+    },
+    {
+        "name": "pollyseventiesoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyseventiesoutfit"
+    },
+    {
+        "name": "pollyeightiesoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "pollyeightiesoutfit"
+    },
+    {
+        "name": "pollypin-upgirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollypin-upgirloutfit"
+    },
+    {
+        "name": "pollywifematerialoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollywifematerialoutfit"
+    },
+    {
+        "name": "pollytuxedooutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollytuxedooutfit"
+    },
+    {
+        "name": "pollysexsymboloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollysexsymboloutfit"
+    },
+    {
+        "name": "pollyrollerskateoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyrollerskateoutfit"
+    },
+    {
+        "name": "pollyweddingnightoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "pollyweddingnightoutfit"
+    },
+    {
+        "name": "sarahkimonochioutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahkimonochioutfit"
+    },
+    {
+        "name": "sarahgangurooutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "sarahgangurooutfit"
+    },
+    {
+        "name": "sarahoveralloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahoveralloutfit"
+    },
+    {
+        "name": "sarahsailoroutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahsailoroutfit"
+    },
+    {
+        "name": "sarahbubblebathoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahbubblebathoutfit"
+    },
+    {
+        "name": "sarahkittykatoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahkittykatoutfit"
+    },
+    {
+        "name": "sarahcowgirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahcowgirloutfit"
+    },
+    {
+        "name": "sarahpandahoodieoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahpandahoodieoutfit"
+    },
+    {
+        "name": "sarahturboskankoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahturboskankoutfit"
+    },
+    {
+        "name": "sarahhealingtouchoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "sarahhealingtouchoutfit"
+    },
+    {
+        "name": "zoeycitrusacidoutfit",
+        "type": "static",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycitrusacidoutfit"
+    },
+    {
+        "name": "zoeytoxicityoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeytoxicityoutfit"
+    },
+    {
+        "name": "zoeysacrilegeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeysacrilegeoutfit"
+    },
+    {
+        "name": "zoeysugarhighoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeysugarhighoutfit"
+    },
+    {
+        "name": "zoeycheetahoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycheetahoutfit"
+    },
+    {
+        "name": "zoeydreamsicleoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeydreamsicleoutfit"
+    },
+    {
+        "name": "zoeyscarehoeoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeyscarehoeoutfit"
+    },
+    {
+        "name": "zoeycyberslaveoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeycyberslaveoutfit"
+    },
+    {
+        "name": "zoeygamergirloutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeygamergirloutfit"
+    },
+    {
+        "name": "zoeyluvendassoutfit",
+        "type": "toggle",
+        "img": "images/items/outfit.png",
+        "codes": "zoeyluvendassoutfit"
+    },
+
+
+
+    {
+        "name": "fairywings(abia|candace)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|candace)"
+    },
+    {
+        "name": "fairywings(abia|jessie)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|jessie)"
+    },
+    {
+        "name": "fairywings(abia|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|lillian)"
+    },
+    {
+        "name": "fairywings(abia|lola)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(abia|lola)"
+    },
+    {
+        "name": "fairywings(ashley|brooke)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|brooke)"
+    },
+    {
+        "name": "fairywings(ashley|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|lillian)"
+    },
+    {
+        "name": "fairywings(ashley|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|nora)"
+    },
+    {
+        "name": "fairywings(ashley|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(ashley|polly)"
+    },
+    {
+        "name": "fairywings(brooke|jessie)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|jessie)"
+    },
+    {
+        "name": "fairywings(brooke|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|polly)"
+    },
+    {
+        "name": "fairywings(brooke|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(brooke|sarah)"
+    },
+    {
+        "name": "fairywings(candace|lailani)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|lailani)"
+    },
+    {
+        "name": "fairywings(candace|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|nora)"
+    },
+    {
+        "name": "fairywings(candace|polly)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(candace|polly)"
+    },
+    {
+        "name": "fairywings(jessie|lailani)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(jessie|lailani)"
+    },
+    {
+        "name": "fairywings(jessie|lola)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(jessie|lola)"
+    },
+    {
+        "name": "fairywings(lailani|lillian)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lailani|lillian)"
+    },
+    {
+        "name": "fairywings(lailani|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lailani|sarah)"
+    },
+    {
+        "name": "fairywings(lillian|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lillian|zoey)"
+    },
+    {
+        "name": "fairywings(lola|nora)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lola|nora)"
+    },
+    {
+        "name": "fairywings(lola|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(lola|zoey)"
+    },
+    {
+        "name": "fairywings(nora|sarah)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(nora|sarah)"
+    },
+    {
+        "name": "fairywings(polly|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(polly|zoey)"
+    },
+    {
+        "name": "fairywings(sarah|zoey)",
+        "type": "toggle",
+        "img": "images/items/wing.png",
+        "codes": "fairywings(sarah|zoey)"
+    },
+
+
+
+    {
+        "name": "sexuallv-up1",
+        "type": "toggle",
+        "img": "images/items/sex.png",
+        "codes": "sexuallv-up1"
+    },
+    {
+        "name": "sexuallv-up2",
+        "type": "toggle",
+        "img": "images/items/sex.png",
+        "codes": "sexuallv-up2"
+    },
+    {
+        "name": "sexuallv-up3",
+        "type": "toggle",
+        "img": "images/items/sex.png",
+        "codes": "sexuallv-up3"
+    },
+    {
+        "name": "sexuallv-up4",
+        "type": "toggle",
+        "img": "images/items/sex.png",
+        "codes": "sexuallv-up4"
+    },
+    {
+        "name": "talentlv-up1",
+        "type": "toggle",
+        "img": "images/items/talent.png",
+        "codes": "talentlv-up1"
+    },
+    {
+        "name": "talentlv-up2",
+        "type": "toggle",
+        "img": "images/items/talent.png",
+        "codes": "talentlv-up2"
+    },
+    {
+        "name": "talentlv-up3",
+        "type": "toggle",
+        "img": "images/items/talent.png",
+        "codes": "talentlv-up3"
+    },
+    {
+        "name": "talentlv-up4",
+        "type": "toggle",
+        "img": "images/items/talent.png",
+        "codes": "talentlv-up4"
+    },
+    {
+        "name": "flirtationlv-up1",
+        "type": "toggle",
+        "img": "images/items/flirtation.png",
+        "codes": "flirtationlv-up1"
+    },
+    {
+        "name": "flirtationlv-up2",
+        "type": "toggle",
+        "img": "images/items/flirtation.png",
+        "codes": "flirtationlv-up2"
+    },
+    {
+        "name": "flirtationlv-up3",
+        "type": "toggle",
+        "img": "images/items/flirtation.png",
+        "codes": "flirtationlv-up3"
+    },
+    {
+        "name": "flirtationlv-up4",
+        "type": "toggle",
+        "img": "images/items/flirtation.png",
+        "codes": "flirtationlv-up4"
+    },
+    {
+        "name": "romancelv-up1",
+        "type": "toggle",
+        "img": "images/items/romance.png",
+        "codes": "romancelv-up1"
+    },
+    {
+        "name": "romancelv-up2",
+        "type": "toggle",
+        "img": "images/items/romance.png",
+        "codes": "romancelv-up2"
+    },
+    {
+        "name": "romancelv-up3",
+        "type": "toggle",
+        "img": "images/items/romance.png",
+        "codes": "romancelv-up3"
+    },
+    {
+        "name": "romancelv-up4",
+        "type": "toggle",
+        "img": "images/items/romance.png",
+        "codes": "romancelv-up4"
+    },
+    {
+        "name": "stylelv-up1",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up1"
+    },
+    {
+        "name": "stylelv-up2",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up2"
+    },
+    {
+        "name": "stylelv-up3",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up3"
+    },
+    {
+        "name": "stylelv-up4",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up4"
+    },
+    {
+        "name": "stylelv-up5",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up5"
+    },
+    {
+        "name": "stylelv-up6",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up6"
+    },
+    {
+        "name": "stylelv-up7",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up7"
+    },
+    {
+        "name": "stylelv-up8",
+        "type": "toggle",
+        "img": "images/items/style.png",
+        "codes": "stylelv-up8"
+    },
+    {
+        "name": "passionlv-up1",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up1"
+    },
+    {
+        "name": "passionlv-up2",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up2"
+    },
+    {
+        "name": "passionlv-up3",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up3"
+    },
+    {
+        "name": "passionlv-up4",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up4"
+    },
+    {
+        "name": "passionlv-up5",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up5"
+    },
+    {
+        "name": "passionlv-up6",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up6"
+    },
+    {
+        "name": "passionlv-up7",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up7"
+    },
+    {
+        "name": "passionlv-up8",
+        "type": "toggle",
+        "img": "images/items/passion.png",
+        "codes": "passionlv-up8"
+    },
+]

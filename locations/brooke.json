@@ -1,0 +1,1161 @@
+[
+    {
+        "name": "Unique Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "480",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Clutch Purse Unique Gift",
+                "access_rules": 
+                [
+                    "clutchpurseuniquegift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "clutchpurseuniquegift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "clutchpurseuniquegift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "clutchpurseuniquegift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "587",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Shoulder Bag Unique Gift",
+                "access_rules": 
+                [
+                    "shoulderbaguniquegift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "shoulderbaguniquegift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "shoulderbaguniquegift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "shoulderbaguniquegift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "693",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Quilted Handbag Unique Gift",
+                "access_rules": 
+                [
+                    "quiltedhandbaguniquegift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "quiltedhandbaguniquegift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "quiltedhandbaguniquegift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "quiltedhandbaguniquegift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Unique Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "800",
+                "y": "216",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Elegant Tote Bag Unique Gift",
+                "access_rules": 
+                [
+                    "eleganttotebaguniquegift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "eleganttotebaguniquegift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "eleganttotebaguniquegift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "eleganttotebaguniquegift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 1",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "480",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Charcoal Wedges Gift",
+                "access_rules": 
+                [
+                    "charcoalwedgesgift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "charcoalwedgesgift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "charcoalwedgesgift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "charcoalwedgesgift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 2",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "587",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Cork Wedges Gift",
+                "access_rules": 
+                [
+                    "corkwedgesgift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "corkwedgesgift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "corkwedgesgift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "corkwedgesgift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 3",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "693",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Wooden Wedges Gift",
+                "access_rules": 
+                [
+                    "woodenwedgesgift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "woodenwedgesgift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "woodenwedgesgift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "woodenwedgesgift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shoe Gift 4",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "800",
+                "y": "430",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Gift brooke Denim Wedges Gift",
+                "access_rules": 
+                [
+                    "denimwedgesgift,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "denimwedgesgift,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "denimwedgesgift,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "denimwedgesgift,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+
+    {
+        "name": "Pair Attracted (ashley|brooke)",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "790",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (ashley|brooke)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (ashley|brooke)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (brooke|jessie)",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "475",
+                "y": "553",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (brooke|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|jessie)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (brooke|polly)",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "790",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (brooke|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|polly)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pair Attracted (brooke|sarah)",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "475",
+                "y": "662",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Pair Attracted (brooke|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Pair Lovers (brooke|sarah)",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)"
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Drink Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "52",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite drink",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ice Cream Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Ice Cream Flavor",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Music Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "122",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Music Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Movie Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "157",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Movie Genre",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Online Activity Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "192",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Online Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "App Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "227",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Phone App",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Exercise Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "262",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Type Of Exercise",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "297",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Outdoor Activity",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Ride Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "332",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Theme Park Ride",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Friday Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "367",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Friday Night",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sunday Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "402",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Sunday Morning",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Weather Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Weather",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Holiday Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "472",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Holiday",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Pet Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "507",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Pet",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Subject Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "542",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite School Subject",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Shop Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "577",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Place to shop",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Trait Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "612",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Trait In Partner",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Body Part Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "647",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Own Body Part",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Sex Position Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "682",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Sex Position",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Porn Category Question",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "899",
+                "y": "717",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "brooke favourite Porn Category",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 1",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "87",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Bath Time Outfit",
+                "access_rules": 
+                [
+                    "brookebathtimeoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookebathtimeoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookebathtimeoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookebathtimeoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 2",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "137",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Professional Outfit",
+                "access_rules": 
+                [
+                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 3",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "187",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Priceless Outfit",
+                "access_rules": 
+                [
+                    "brookepricelessoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookepricelessoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookepricelessoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookepricelessoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 4",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "237",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Kitchen Cook Outfit",
+                "access_rules": 
+                [
+                    "brookekitchencookoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookekitchencookoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookekitchencookoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookekitchencookoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 5",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "287",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Vikini Outfit",
+                "access_rules": 
+                [
+                    "brookevikinioutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookevikinioutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookevikinioutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookevikinioutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 6",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "337",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Cougar Outfit",
+                "access_rules": 
+                [
+                    "brookecougaroutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookecougaroutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookecougaroutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookecougaroutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 7",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "387",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Stars & Stripes Outfit",
+                "access_rules": 
+                [
+                    "brookestars&stripesoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookestars&stripesoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookestars&stripesoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookestars&stripesoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 8",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "437",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Captain Mommy Outfit",
+                "access_rules": 
+                [
+                    "brookecaptainmommyoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookecaptainmommyoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookecaptainmommyoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookecaptainmommyoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 9",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "487",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Glamorous Outfit",
+                "access_rules": 
+                [
+                    "brookeglamorousoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookeglamorousoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookeglamorousoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookeglamorousoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+    {
+        "name": "Outfit 10",
+        "map_locations": 
+        [
+            {
+                "map": "brooke",
+                "x": "1427",
+                "y": "537",
+                "size": 30
+            }
+        ],
+        "sections":
+        [
+            {
+                "name": "Date Brooke in Love Goddess Outfit",
+                "access_rules": 
+                [
+                    "brookelovegoddessoutfit,unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)",
+                    "brookelovegoddessoutfit,unlockgirl(brooke),unlockgirl(jessie),pairunlock(brooke|jessie)",
+                    "brookelovegoddessoutfit,unlockgirl(brooke),unlockgirl(polly),pairunlock(brooke|polly)",
+                    "brookelovegoddessoutfit,unlockgirl(brooke),unlockgirl(sarah),pairunlock(brooke|sarah)",
+                ],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ]
+    },
+]
