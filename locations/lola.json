@@ -1,6 +1,6 @@
 [
     {
-        "name": "Unique Gift 1",
+        "name": "Lola Unique Gift 1",
         "map_locations": 
         [
             {
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "name": "Unique Gift 2",
+        "name": "Lola Unique Gift 2",
         "map_locations": 
         [
             {
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Unique Gift 3",
+        "name": "Lola Unique Gift 3",
         "map_locations": 
         [
             {
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "Unique Gift 4",
+        "name": "Lola Unique Gift 4",
         "map_locations": 
         [
             {
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 1",
+        "name": "Lola Shoe Gift 1",
         "map_locations": 
         [
             {
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 2",
+        "name": "Lola Shoe Gift 2",
         "map_locations": 
         [
             {
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 3",
+        "name": "Lola Shoe Gift 3",
         "map_locations": 
         [
             {
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 4",
+        "name": "Lola Shoe Gift 4",
         "map_locations": 
         [
             {
@@ -217,7 +217,7 @@
     },
 
     {
-        "name": "Pair Attracted (abia|lola)",
+        "name": "Lola|Abia",
         "map_locations": 
         [
             {
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (jessie|lola)",
+        "name": "Lola|Jessie",
         "map_locations": 
         [
             {
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (lola|nora)",
+        "name": "Lola|Nora",
         "map_locations": 
         [
             {
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (lola|zoey)",
+        "name": "Lola|Zoey",
         "map_locations": 
         [
             {
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "name": "Drink Question",
+        "name": "Lola Drink Question",
         "map_locations": 
         [
             {
@@ -363,6 +363,7 @@
         [
             {
                 "name": "lola favourite drink",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -376,7 +377,7 @@
         ]
     },
     {
-        "name": "Ice Cream Question",
+        "name": "Lola Ice Cream Question",
         "map_locations": 
         [
             {
@@ -390,6 +391,7 @@
         [
             {
                 "name": "lola favourite Ice Cream Flavor",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -403,7 +405,7 @@
         ]
     },
     {
-        "name": "Music Question",
+        "name": "Lola Music Question",
         "map_locations": 
         [
             {
@@ -417,6 +419,7 @@
         [
             {
                 "name": "lola favourite Music Genre",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -430,7 +433,7 @@
         ]
     },
     {
-        "name": "Movie Question",
+        "name": "Lola Movie Question",
         "map_locations": 
         [
             {
@@ -444,6 +447,7 @@
         [
             {
                 "name": "lola favourite Movie Genre",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -457,7 +461,7 @@
         ]
     },
     {
-        "name": "Online Activity Question",
+        "name": "Lola Online Activity Question",
         "map_locations": 
         [
             {
@@ -471,6 +475,7 @@
         [
             {
                 "name": "lola favourite Online Activity",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -484,7 +489,7 @@
         ]
     },
     {
-        "name": "App Question",
+        "name": "Lola App Question",
         "map_locations": 
         [
             {
@@ -498,6 +503,7 @@
         [
             {
                 "name": "lola favourite Phone App",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -511,7 +517,7 @@
         ]
     },
     {
-        "name": "Exercise Question",
+        "name": "Lola Exercise Question",
         "map_locations": 
         [
             {
@@ -525,6 +531,7 @@
         [
             {
                 "name": "lola favourite Type Of Exercise",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -538,7 +545,7 @@
         ]
     },
     {
-        "name": "Outdoor Question",
+        "name": "Lola Outdoor Question",
         "map_locations": 
         [
             {
@@ -552,6 +559,7 @@
         [
             {
                 "name": "lola favourite Outdoor Activity",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -565,7 +573,7 @@
         ]
     },
     {
-        "name": "Ride Question",
+        "name": "Lola Ride Question",
         "map_locations": 
         [
             {
@@ -579,6 +587,7 @@
         [
             {
                 "name": "lola favourite Theme Park Ride",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -592,7 +601,7 @@
         ]
     },
     {
-        "name": "Friday Question",
+        "name": "Lola Friday Question",
         "map_locations": 
         [
             {
@@ -606,6 +615,7 @@
         [
             {
                 "name": "lola favourite Friday Night",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -619,7 +629,7 @@
         ]
     },
     {
-        "name": "Sunday Question",
+        "name": "Lola Sunday Question",
         "map_locations": 
         [
             {
@@ -633,6 +643,7 @@
         [
             {
                 "name": "lola favourite Sunday Morning",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -646,7 +657,7 @@
         ]
     },
     {
-        "name": "Weather Question",
+        "name": "Lola Weather Question",
         "map_locations": 
         [
             {
@@ -660,6 +671,7 @@
         [
             {
                 "name": "lola favourite Weather",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -673,7 +685,7 @@
         ]
     },
     {
-        "name": "Holiday Question",
+        "name": "Lola Holiday Question",
         "map_locations": 
         [
             {
@@ -687,6 +699,7 @@
         [
             {
                 "name": "lola favourite Holiday",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -700,7 +713,7 @@
         ]
     },
     {
-        "name": "Pet Question",
+        "name": "Lola Pet Question",
         "map_locations": 
         [
             {
@@ -714,6 +727,7 @@
         [
             {
                 "name": "lola favourite Pet",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -727,7 +741,7 @@
         ]
     },
     {
-        "name": "Subject Question",
+        "name": "Lola Subject Question",
         "map_locations": 
         [
             {
@@ -741,6 +755,7 @@
         [
             {
                 "name": "lola favourite School Subject",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -754,7 +769,7 @@
         ]
     },
     {
-        "name": "Shop Question",
+        "name": "Lola Shop Question",
         "map_locations": 
         [
             {
@@ -768,6 +783,7 @@
         [
             {
                 "name": "lola favourite Place to shop",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -781,7 +797,7 @@
         ]
     },
     {
-        "name": "Trait Question",
+        "name": "Lola Trait Question",
         "map_locations": 
         [
             {
@@ -795,6 +811,7 @@
         [
             {
                 "name": "lola favourite Trait In Partner",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -808,7 +825,7 @@
         ]
     },
     {
-        "name": "Body Part Question",
+        "name": "Lola Body Part Question",
         "map_locations": 
         [
             {
@@ -822,6 +839,7 @@
         [
             {
                 "name": "lola favourite Own Body Part",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -835,7 +853,7 @@
         ]
     },
     {
-        "name": "Sex Position Question",
+        "name": "Lola Sex Position Question",
         "map_locations": 
         [
             {
@@ -849,6 +867,7 @@
         [
             {
                 "name": "lola favourite Sex Position",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -862,7 +881,7 @@
         ]
     },
     {
-        "name": "Porn Category Question",
+        "name": "Lola Porn Category Question",
         "map_locations": 
         [
             {
@@ -876,6 +895,7 @@
         [
             {
                 "name": "lola favourite Porn Category",
+                "item_count": 1,
                 "access_rules": 
                 [
                     "unlockgirl(lola),unlockgirl(abia),pairunlock(abia|lola)",
@@ -889,7 +909,7 @@
         ]
     },
     {
-        "name": "Outfit 1",
+        "name": "Lola Outfit 1",
         "map_locations": 
         [
             {
@@ -916,7 +936,7 @@
         ]
     },
     {
-        "name": "Outfit 2",
+        "name": "Lola Outfit 2",
         "map_locations": 
         [
             {
@@ -943,7 +963,7 @@
         ]
     },
     {
-        "name": "Outfit 3",
+        "name": "Lola Outfit 3",
         "map_locations": 
         [
             {
@@ -970,7 +990,7 @@
         ]
     },
     {
-        "name": "Outfit 4",
+        "name": "Lola Outfit 4",
         "map_locations": 
         [
             {
@@ -997,7 +1017,7 @@
         ]
     },
     {
-        "name": "Outfit 5",
+        "name": "Lola Outfit 5",
         "map_locations": 
         [
             {
@@ -1024,7 +1044,7 @@
         ]
     },
     {
-        "name": "Outfit 6",
+        "name": "Lola Outfit 6",
         "map_locations": 
         [
             {
@@ -1051,7 +1071,7 @@
         ]
     },
     {
-        "name": "Outfit 7",
+        "name": "Lola Outfit 7",
         "map_locations": 
         [
             {
@@ -1078,7 +1098,7 @@
         ]
     },
     {
-        "name": "Outfit 8",
+        "name": "Lola Outfit 8",
         "map_locations": 
         [
             {
@@ -1105,7 +1125,7 @@
         ]
     },
     {
-        "name": "Outfit 9",
+        "name": "Lola Outfit 9",
         "map_locations": 
         [
             {
@@ -1132,7 +1152,7 @@
         ]
     },
     {
-        "name": "Outfit 10",
+        "name": "Lola Outfit 10",
         "map_locations": 
         [
             {

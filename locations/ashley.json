@@ -1,6 +1,6 @@
 [
     {
-        "name": "Unique Gift 1",
+        "name": "Ashley Unique Gift 1",
         "map_locations": 
         [
             {
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "name": "Unique Gift 2",
+        "name": "Ashley Unique Gift 2",
         "map_locations": 
         [
             {
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Unique Gift 3",
+        "name": "Ashley Unique Gift 3",
         "map_locations": 
         [
             {
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "Unique Gift 4",
+        "name": "Ashley Unique Gift 4",
         "map_locations": 
         [
             {
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 1",
+        "name": "Ashley Shoe Gift 1",
         "map_locations": 
         [
             {
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 2",
+        "name": "Ashley Shoe Gift 2",
         "map_locations": 
         [
             {
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 3",
+        "name": "Ashley Shoe Gift 3",
         "map_locations": 
         [
             {
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 4",
+        "name": "Ashley Shoe Gift 4",
         "map_locations": 
         [
             {
@@ -217,7 +217,7 @@
     },
 
     {
-        "name": "Pair Attracted (ashley|brooke)",
+        "name": "Ashley|Brooke",
         "map_locations": 
         [
             {
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (ashley|lillian)",
+        "name": "Ashley|Lillian",
         "map_locations": 
         [
             {
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (ashley|nora)",
+        "name": "Ashley|Nora",
         "map_locations": 
         [
             {
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (ashley|polly)",
+        "name": "Ashley|Polly",
         "map_locations": 
         [
             {
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "name": "Drink Question",
+        "name": "Ashley Drink Question",
         "map_locations": 
         [
             {
@@ -376,7 +376,7 @@
         ]
     },
     {
-        "name": "Ice Cream Question",
+        "name": "Ashley Ice Cream Question",
         "map_locations": 
         [
             {
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "name": "Music Question",
+        "name": "Ashley Music Question",
         "map_locations": 
         [
             {
@@ -430,7 +430,7 @@
         ]
     },
     {
-        "name": "Movie Question",
+        "name": "Ashley Movie Question",
         "map_locations": 
         [
             {
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "name": "Online Activity Question",
+        "name": "Ashley Online Activity Question",
         "map_locations": 
         [
             {
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "name": "App Question",
+        "name": "Ashley App Question",
         "map_locations": 
         [
             {
@@ -511,7 +511,7 @@
         ]
     },
     {
-        "name": "Exercise Question",
+        "name": "Ashley Exercise Question",
         "map_locations": 
         [
             {
@@ -538,7 +538,7 @@
         ]
     },
     {
-        "name": "Outdoor Question",
+        "name": "Ashley Outdoor Question",
         "map_locations": 
         [
             {
@@ -565,7 +565,7 @@
         ]
     },
     {
-        "name": "Ride Question",
+        "name": "Ashley Ride Question",
         "map_locations": 
         [
             {
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "name": "Friday Question",
+        "name": "Ashley Friday Question",
         "map_locations": 
         [
             {
@@ -619,7 +619,7 @@
         ]
     },
     {
-        "name": "Sunday Question",
+        "name": "Ashley Sunday Question",
         "map_locations": 
         [
             {
@@ -646,7 +646,7 @@
         ]
     },
     {
-        "name": "Weather Question",
+        "name": "Ashley Weather Question",
         "map_locations": 
         [
             {
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "name": "Holiday Question",
+        "name": "Ashley Holiday Question",
         "map_locations": 
         [
             {
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "name": "Pet Question",
+        "name": "Ashley Pet Question",
         "map_locations": 
         [
             {
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "name": "Subject Question",
+        "name": "Ashley Subject Question",
         "map_locations": 
         [
             {
@@ -754,7 +754,7 @@
         ]
     },
     {
-        "name": "Shop Question",
+        "name": "Ashley Shop Question",
         "map_locations": 
         [
             {
@@ -781,7 +781,7 @@
         ]
     },
     {
-        "name": "Trait Question",
+        "name": "Ashley Trait Question",
         "map_locations": 
         [
             {
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "name": "Body Part Question",
+        "name": "Ashley Body Part Question",
         "map_locations": 
         [
             {
@@ -835,7 +835,7 @@
         ]
     },
     {
-        "name": "Sex Position Question",
+        "name": "Ashley Sex Position Question",
         "map_locations": 
         [
             {
@@ -862,7 +862,7 @@
         ]
     },
     {
-        "name": "Porn Category Question",
+        "name": "Ashley Porn Category Question",
         "map_locations": 
         [
             {
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "name": "Outfit 1",
+        "name": "Ashley Outfit 1",
         "map_locations": 
         [
             {
@@ -916,7 +916,7 @@
         ]
     },
     {
-        "name": "Outfit 2",
+        "name": "Ashley Outfit 2",
         "map_locations": 
         [
             {
@@ -943,7 +943,7 @@
         ]
     },
     {
-        "name": "Outfit 3",
+        "name": "Ashley Outfit 3",
         "map_locations": 
         [
             {
@@ -970,7 +970,7 @@
         ]
     },
     {
-        "name": "Outfit 4",
+        "name": "Ashley Outfit 4",
         "map_locations": 
         [
             {
@@ -997,7 +997,7 @@
         ]
     },
     {
-        "name": "Outfit 5",
+        "name": "Ashley Outfit 5",
         "map_locations": 
         [
             {
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "name": "Outfit 6",
+        "name": "Ashley Outfit 6",
         "map_locations": 
         [
             {
@@ -1051,7 +1051,7 @@
         ]
     },
     {
-        "name": "Outfit 7",
+        "name": "Ashley Outfit 7",
         "map_locations": 
         [
             {
@@ -1078,7 +1078,7 @@
         ]
     },
     {
-        "name": "Outfit 8",
+        "name": "Ashley Outfit 8",
         "map_locations": 
         [
             {
@@ -1105,7 +1105,7 @@
         ]
     },
     {
-        "name": "Outfit 9",
+        "name": "Ashley Outfit 9",
         "map_locations": 
         [
             {
@@ -1132,7 +1132,7 @@
         ]
     },
     {
-        "name": "Outfit 10",
+        "name": "Ashley Outfit 10",
         "map_locations": 
         [
             {

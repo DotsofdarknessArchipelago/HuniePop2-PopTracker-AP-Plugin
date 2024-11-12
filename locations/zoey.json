@@ -1,6 +1,6 @@
 [
     {
-        "name": "Unique Gift 1",
+        "name": "Zoey Unique Gift 1",
         "map_locations": 
         [
             {
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "name": "Unique Gift 2",
+        "name": "Zoey Unique Gift 2",
         "map_locations": 
         [
             {
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Unique Gift 3",
+        "name": "Zoey Unique Gift 3",
         "map_locations": 
         [
             {
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "Unique Gift 4",
+        "name": "Zoey Unique Gift 4",
         "map_locations": 
         [
             {
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 1",
+        "name": "Zoey Shoe Gift 1",
         "map_locations": 
         [
             {
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 2",
+        "name": "Zoey Shoe Gift 2",
         "map_locations": 
         [
             {
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 3",
+        "name": "Zoey Shoe Gift 3",
         "map_locations": 
         [
             {
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 4",
+        "name": "Zoey Shoe Gift 4",
         "map_locations": 
         [
             {
@@ -217,7 +217,7 @@
     },
 
     {
-        "name": "Pair Attracted (lillian|zoey)",
+        "name": "Zoey|Lillian",
         "map_locations": 
         [
             {
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (lola|zoey)",
+        "name": "Zoey|Lola",
         "map_locations": 
         [
             {
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (polly|zoey)",
+        "name": "Zoey|Polly",
         "map_locations": 
         [
             {
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (sarah|zoey)",
+        "name": "Zoey|Sarah",
         "map_locations": 
         [
             {
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "name": "Drink Question",
+        "name": "Zoey Drink Question",
         "map_locations": 
         [
             {
@@ -376,7 +376,7 @@
         ]
     },
     {
-        "name": "Ice Cream Question",
+        "name": "Zoey Ice Cream Question",
         "map_locations": 
         [
             {
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "name": "Music Question",
+        "name": "Zoey Music Question",
         "map_locations": 
         [
             {
@@ -430,7 +430,7 @@
         ]
     },
     {
-        "name": "Movie Question",
+        "name": "Zoey Movie Question",
         "map_locations": 
         [
             {
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "name": "Online Activity Question",
+        "name": "Zoey Online Activity Question",
         "map_locations": 
         [
             {
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "name": "App Question",
+        "name": "Zoey App Question",
         "map_locations": 
         [
             {
@@ -511,7 +511,7 @@
         ]
     },
     {
-        "name": "Exercise Question",
+        "name": "Zoey Exercise Question",
         "map_locations": 
         [
             {
@@ -538,7 +538,7 @@
         ]
     },
     {
-        "name": "Outdoor Question",
+        "name": "Zoey Outdoor Question",
         "map_locations": 
         [
             {
@@ -565,7 +565,7 @@
         ]
     },
     {
-        "name": "Ride Question",
+        "name": "Zoey Ride Question",
         "map_locations": 
         [
             {
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "name": "Friday Question",
+        "name": "Zoey Friday Question",
         "map_locations": 
         [
             {
@@ -619,7 +619,7 @@
         ]
     },
     {
-        "name": "Sunday Question",
+        "name": "Zoey Sunday Question",
         "map_locations": 
         [
             {
@@ -646,7 +646,7 @@
         ]
     },
     {
-        "name": "Weather Question",
+        "name": "Zoey Weather Question",
         "map_locations": 
         [
             {
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "name": "Holiday Question",
+        "name": "Zoey Holiday Question",
         "map_locations": 
         [
             {
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "name": "Pet Question",
+        "name": "Zoey Pet Question",
         "map_locations": 
         [
             {
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "name": "Subject Question",
+        "name": "Zoey Subject Question",
         "map_locations": 
         [
             {
@@ -754,7 +754,7 @@
         ]
     },
     {
-        "name": "Shop Question",
+        "name": "Zoey Shop Question",
         "map_locations": 
         [
             {
@@ -781,7 +781,7 @@
         ]
     },
     {
-        "name": "Trait Question",
+        "name": "Zoey Trait Question",
         "map_locations": 
         [
             {
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "name": "Body Part Question",
+        "name": "Zoey Body Part Question",
         "map_locations": 
         [
             {
@@ -835,7 +835,7 @@
         ]
     },
     {
-        "name": "Sex Position Question",
+        "name": "Zoey Sex Position Question",
         "map_locations": 
         [
             {
@@ -862,7 +862,7 @@
         ]
     },
     {
-        "name": "Porn Category Question",
+        "name": "Zoey Porn Category Question",
         "map_locations": 
         [
             {
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "name": "Outfit 1",
+        "name": "Zoey Outfit 1",
         "map_locations": 
         [
             {
@@ -916,7 +916,7 @@
         ]
     },
     {
-        "name": "Outfit 2",
+        "name": "Zoey Outfit 2",
         "map_locations": 
         [
             {
@@ -943,7 +943,7 @@
         ]
     },
     {
-        "name": "Outfit 3",
+        "name": "Zoey Outfit 3",
         "map_locations": 
         [
             {
@@ -970,7 +970,7 @@
         ]
     },
     {
-        "name": "Outfit 4",
+        "name": "Zoey Outfit 4",
         "map_locations": 
         [
             {
@@ -997,7 +997,7 @@
         ]
     },
     {
-        "name": "Outfit 5",
+        "name": "Zoey Outfit 5",
         "map_locations": 
         [
             {
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "name": "Outfit 6",
+        "name": "Zoey Outfit 6",
         "map_locations": 
         [
             {
@@ -1051,7 +1051,7 @@
         ]
     },
     {
-        "name": "Outfit 7",
+        "name": "Zoey Outfit 7",
         "map_locations": 
         [
             {
@@ -1078,7 +1078,7 @@
         ]
     },
     {
-        "name": "Outfit 8",
+        "name": "Zoey Outfit 8",
         "map_locations": 
         [
             {
@@ -1105,7 +1105,7 @@
         ]
     },
     {
-        "name": "Outfit 9",
+        "name": "Zoey Outfit 9",
         "map_locations": 
         [
             {
@@ -1132,7 +1132,7 @@
         ]
     },
     {
-        "name": "Outfit 10",
+        "name": "Zoey Outfit 10",
         "map_locations": 
         [
             {

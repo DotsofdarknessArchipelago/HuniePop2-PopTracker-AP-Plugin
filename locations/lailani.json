@@ -1,6 +1,6 @@
 [
     {
-        "name": "Unique Gift 1",
+        "name": "Lailani Unique Gift 1",
         "map_locations": 
         [
             {
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "name": "Unique Gift 2",
+        "name": "Lailani Unique Gift 2",
         "map_locations": 
         [
             {
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "Unique Gift 3",
+        "name": "Lailani Unique Gift 3",
         "map_locations": 
         [
             {
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "name": "Unique Gift 4",
+        "name": "Lailani Unique Gift 4",
         "map_locations": 
         [
             {
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 1",
+        "name": "Lailani Shoe Gift 1",
         "map_locations": 
         [
             {
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 2",
+        "name": "Lailani Shoe Gift 2",
         "map_locations": 
         [
             {
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 3",
+        "name": "Lailani Shoe Gift 3",
         "map_locations": 
         [
             {
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "name": "Shoe Gift 4",
+        "name": "Lailani Shoe Gift 4",
         "map_locations": 
         [
             {
@@ -217,7 +217,7 @@
     },
 
     {
-        "name": "Pair Attracted (candace|lailani)",
+        "name": "Lailani|Candace",
         "map_locations": 
         [
             {
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (jessie|lailani)",
+        "name": "Lailani|Jessie",
         "map_locations": 
         [
             {
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (lailani|lillian)",
+        "name": "Lailani|Lillian",
         "map_locations": 
         [
             {
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "name": "Pair Attracted (lailani|sarah)",
+        "name": "Lailani|Sarah",
         "map_locations": 
         [
             {
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "name": "Drink Question",
+        "name": "Lailani Drink Question",
         "map_locations": 
         [
             {
@@ -376,7 +376,7 @@
         ]
     },
     {
-        "name": "Ice Cream Question",
+        "name": "Lailani Ice Cream Question",
         "map_locations": 
         [
             {
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "name": "Music Question",
+        "name": "Lailani Music Question",
         "map_locations": 
         [
             {
@@ -430,7 +430,7 @@
         ]
     },
     {
-        "name": "Movie Question",
+        "name": "Lailani Movie Question",
         "map_locations": 
         [
             {
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "name": "Online Activity Question",
+        "name": "Lailani Online Activity Question",
         "map_locations": 
         [
             {
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "name": "App Question",
+        "name": "Lailani App Question",
         "map_locations": 
         [
             {
@@ -511,7 +511,7 @@
         ]
     },
     {
-        "name": "Exercise Question",
+        "name": "Lailani Exercise Question",
         "map_locations": 
         [
             {
@@ -538,7 +538,7 @@
         ]
     },
     {
-        "name": "Outdoor Question",
+        "name": "Lailani Outdoor Question",
         "map_locations": 
         [
             {
@@ -565,7 +565,7 @@
         ]
     },
     {
-        "name": "Ride Question",
+        "name": "Lailani Ride Question",
         "map_locations": 
         [
             {
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "name": "Friday Question",
+        "name": "Lailani Friday Question",
         "map_locations": 
         [
             {
@@ -619,7 +619,7 @@
         ]
     },
     {
-        "name": "Sunday Question",
+        "name": "Lailani Sunday Question",
         "map_locations": 
         [
             {
@@ -646,7 +646,7 @@
         ]
     },
     {
-        "name": "Weather Question",
+        "name": "Lailani Weather Question",
         "map_locations": 
         [
             {
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "name": "Holiday Question",
+        "name": "Lailani Holiday Question",
         "map_locations": 
         [
             {
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "name": "Pet Question",
+        "name": "Lailani Pet Question",
         "map_locations": 
         [
             {
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "name": "Subject Question",
+        "name": "Lailani Subject Question",
         "map_locations": 
         [
             {
@@ -754,7 +754,7 @@
         ]
     },
     {
-        "name": "Shop Question",
+        "name": "Lailani Shop Question",
         "map_locations": 
         [
             {
@@ -781,7 +781,7 @@
         ]
     },
     {
-        "name": "Trait Question",
+        "name": "Lailani Trait Question",
         "map_locations": 
         [
             {
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "name": "Body Part Question",
+        "name": "Lailani Body Part Question",
         "map_locations": 
         [
             {
@@ -835,7 +835,7 @@
         ]
     },
     {
-        "name": "Sex Position Question",
+        "name": "Lailani Sex Position Question",
         "map_locations": 
         [
             {
@@ -862,7 +862,7 @@
         ]
     },
     {
-        "name": "Porn Category Question",
+        "name": "Lailani Porn Category Question",
         "map_locations": 
         [
             {
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "name": "Outfit 1",
+        "name": "Lailani Outfit 1",
         "map_locations": 
         [
             {
@@ -916,7 +916,7 @@
         ]
     },
     {
-        "name": "Outfit 2",
+        "name": "Lailani Outfit 2",
         "map_locations": 
         [
             {
@@ -943,7 +943,7 @@
         ]
     },
     {
-        "name": "Outfit 3",
+        "name": "Lailani Outfit 3",
         "map_locations": 
         [
             {
@@ -970,7 +970,7 @@
         ]
     },
     {
-        "name": "Outfit 4",
+        "name": "Lailani Outfit 4",
         "map_locations": 
         [
             {
@@ -997,7 +997,7 @@
         ]
     },
     {
-        "name": "Outfit 5",
+        "name": "Lailani Outfit 5",
         "map_locations": 
         [
             {
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "name": "Outfit 6",
+        "name": "Lailani Outfit 6",
         "map_locations": 
         [
             {
@@ -1051,7 +1051,7 @@
         ]
     },
     {
-        "name": "Outfit 7",
+        "name": "Lailani Outfit 7",
         "map_locations": 
         [
             {
@@ -1078,7 +1078,7 @@
         ]
     },
     {
-        "name": "Outfit 8",
+        "name": "Lailani Outfit 8",
         "map_locations": 
         [
             {
@@ -1105,7 +1105,7 @@
         ]
     },
     {
-        "name": "Outfit 9",
+        "name": "Lailani Outfit 9",
         "map_locations": 
         [
             {
@@ -1132,7 +1132,7 @@
         ]
     },
     {
-        "name": "Outfit 10",
+        "name": "Lailani Outfit 10",
         "map_locations": 
         [
             {
