@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (abia|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Abia|Lillian/Pair Attracted (abia|lillian)"
             },
             {
                 "name": "Pair Lovers (abia|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(abia),pairunlock(abia|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Abia|Lillian/Pair Lovers (abia|lillian)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (ashley|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Lillian/Pair Attracted (ashley|lillian)"
             },
             {
                 "name": "Pair Lovers (ashley|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(ashley),pairunlock(ashley|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Lillian/Pair Lovers (ashley|lillian)"
             }
         ]
     },
@@ -297,21 +277,11 @@
         [
             {
                 "name": "Pair Attracted (lailani|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lailani|Lillian/Pair Attracted (lailani|lillian)"
             },
             {
                 "name": "Pair Lovers (lailani|lillian)",
-                "access_rules": 
-                [
-                    "unlockgirl(lillian),unlockgirl(lailani),pairunlock(lailani|lillian)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lailani|Lillian/Pair Lovers (lailani|lillian)"
             }
         ]
     },

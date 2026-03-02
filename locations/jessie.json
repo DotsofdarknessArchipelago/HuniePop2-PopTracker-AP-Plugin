@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (abia|jessie)",
-                "access_rules": 
-                [
-                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Abia|Jessie/Pair Attracted (abia|jessie)"
             },
             {
                 "name": "Pair Lovers (abia|jessie)",
-                "access_rules": 
-                [
-                    "unlockgirl(jessie),unlockgirl(abia),pairunlock(abia|jessie)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Abia|Jessie/Pair Lovers (abia|jessie)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (brooke|jessie)",
-                "access_rules": 
-                [
-                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Brooke|Jessie/Pair Attracted (brooke|jessie)"
             },
             {
                 "name": "Pair Lovers (brooke|jessie)",
-                "access_rules": 
-                [
-                    "unlockgirl(jessie),unlockgirl(brooke),pairunlock(brooke|jessie)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref":  "Brooke|Jessie/Pair Lovers (brooke|jessie)"
             }
         ]
     },

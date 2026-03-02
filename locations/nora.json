@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (ashley|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Nora/Pair Attracted (ashley|nora)"
             },
             {
                 "name": "Pair Lovers (ashley|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(ashley),pairunlock(ashley|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Nora/Pair Lovers (ashley|nora)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (candace|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Nora/Pair Attracted (candace|nora)"
             },
             {
                 "name": "Pair Lovers (candace|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(candace),pairunlock(candace|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Nora/Pair Lovers (candace|nora)"
             }
         ]
     },
@@ -297,21 +277,11 @@
         [
             {
                 "name": "Pair Attracted (lola|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lola|Nora/Pair Attracted (lola|nora)"
             },
             {
                 "name": "Pair Lovers (lola|nora)",
-                "access_rules": 
-                [
-                    "unlockgirl(nora),unlockgirl(lola),pairunlock(lola|nora)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lola|Nora/Pair Lovers (lola|nora)"
             }
         ]
     },

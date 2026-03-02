@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (ashley|brooke)",
-                "access_rules": 
-                [
-                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Brooke/Pair Attracted (ashley|brooke)"
             },
             {
                 "name": "Pair Lovers (ashley|brooke)",
-                "access_rules": 
-                [
-                    "unlockgirl(brooke),unlockgirl(ashley),pairunlock(ashley|brooke)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Brooke/Pair Lovers (ashley|brooke)"
             }
         ]
     },
