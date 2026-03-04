@@ -1677,195 +1677,71 @@
 
 
     {
-        "name": "sexuallv-up1",
-        "type": "toggle",
+        "name": "progressivesexuallv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/sex.png",
-        "codes": "sexuallv-up1"
+        "overlay_background": "#000000",
+        "codes": "progressivesexuallv-up"
+        
     },
     {
-        "name": "sexuallv-up2",
-        "type": "toggle",
-        "img": "images/items/sex.png",
-        "codes": "sexuallv-up2"
-    },
-    {
-        "name": "sexuallv-up3",
-        "type": "toggle",
-        "img": "images/items/sex.png",
-        "codes": "sexuallv-up3"
-    },
-    {
-        "name": "sexuallv-up4",
-        "type": "toggle",
-        "img": "images/items/sex.png",
-        "codes": "sexuallv-up4"
-    },
-    {
-        "name": "talentlv-up1",
-        "type": "toggle",
+        "name": "progressivetalentlv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/talent.png",
-        "codes": "talentlv-up1"
+        "overlay_background": "#000000",
+        "codes": "progressivetalentlv-up"
+        
     },
     {
-        "name": "talentlv-up2",
-        "type": "toggle",
-        "img": "images/items/talent.png",
-        "codes": "talentlv-up2"
-    },
-    {
-        "name": "talentlv-up3",
-        "type": "toggle",
-        "img": "images/items/talent.png",
-        "codes": "talentlv-up3"
-    },
-    {
-        "name": "talentlv-up4",
-        "type": "toggle",
-        "img": "images/items/talent.png",
-        "codes": "talentlv-up4"
-    },
-    {
-        "name": "flirtationlv-up1",
-        "type": "toggle",
+        "name": "progressiveflirtationlv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/flirtation.png",
-        "codes": "flirtationlv-up1"
+        "overlay_background": "#000000",
+        "codes": "progressiveflirtationlv-up"
     },
     {
-        "name": "flirtationlv-up2",
-        "type": "toggle",
-        "img": "images/items/flirtation.png",
-        "codes": "flirtationlv-up2"
-    },
-    {
-        "name": "flirtationlv-up3",
-        "type": "toggle",
-        "img": "images/items/flirtation.png",
-        "codes": "flirtationlv-up3"
-    },
-    {
-        "name": "flirtationlv-up4",
-        "type": "toggle",
-        "img": "images/items/flirtation.png",
-        "codes": "flirtationlv-up4"
-    },
-    {
-        "name": "romancelv-up1",
-        "type": "toggle",
+        "name": "progressiveromancelv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 5,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/romance.png",
-        "codes": "romancelv-up1"
+        "overlay_background": "#000000",
+        "codes": "progressiveromancelv-up"
     },
     {
-        "name": "romancelv-up2",
-        "type": "toggle",
-        "img": "images/items/romance.png",
-        "codes": "romancelv-up2"
-    },
-    {
-        "name": "romancelv-up3",
-        "type": "toggle",
-        "img": "images/items/romance.png",
-        "codes": "romancelv-up3"
-    },
-    {
-        "name": "romancelv-up4",
-        "type": "toggle",
-        "img": "images/items/romance.png",
-        "codes": "romancelv-up4"
-    },
-    {
-        "name": "stylelv-up1",
-        "type": "toggle",
+        "name": "progressivestylelv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 9,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/style.png",
-        "codes": "stylelv-up1"
+        "overlay_background": "#000000",
+        "codes": "progressivestylelv-up"
     },
     {
-        "name": "stylelv-up2",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up2"
-    },
-    {
-        "name": "stylelv-up3",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up3"
-    },
-    {
-        "name": "stylelv-up4",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up4"
-    },
-    {
-        "name": "stylelv-up5",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up5"
-    },
-    {
-        "name": "stylelv-up6",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up6"
-    },
-    {
-        "name": "stylelv-up7",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up7"
-    },
-    {
-        "name": "stylelv-up8",
-        "type": "toggle",
-        "img": "images/items/style.png",
-        "codes": "stylelv-up8"
-    },
-    {
-        "name": "passionlv-up1",
-        "type": "toggle",
+        "name": "progressivepassionlv-up",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 9,
+        "increment": 1,
+        "initial_quantity": 1,
         "img": "images/items/passion.png",
-        "codes": "passionlv-up1"
-    },
-    {
-        "name": "passionlv-up2",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up2"
-    },
-    {
-        "name": "passionlv-up3",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up3"
-    },
-    {
-        "name": "passionlv-up4",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up4"
-    },
-    {
-        "name": "passionlv-up5",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up5"
-    },
-    {
-        "name": "passionlv-up6",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up6"
-    },
-    {
-        "name": "passionlv-up7",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up7"
-    },
-    {
-        "name": "passionlv-up8",
-        "type": "toggle",
-        "img": "images/items/passion.png",
-        "codes": "passionlv-up8"
-    },
+        "overlay_background": "#000000",
+        "codes": "progressivepassionlv-up"
+    }
 ]
