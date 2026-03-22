@@ -15,78 +15,89 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                              "craftedflatsgift",
-                              "basicflatsgift",
-                              "floralflatsgift",
-                              "cozyflatsgift"
-
-                          ],
+                                "craftedflatsgift",
+                                "basicflatsgift",
+                                "floralflatsgift",
+                                "openflatsgift",
+                                "cozyflatsgift"
+                            ],
                             [
-                             "zipupgladiatorsgift",
-                             "strapgladiatorsgift",
-                             "weavegladiatorsgift",
-                             "modestgladiatorsgift"
-                         ],
+                                "zipupgladiatorsgift",
+                                "strapgladiatorsgift",
+                                "weavegladiatorsgift",
+                                "modestgladiatorsgift",
+                                "webgladiatorsgift"
+                            ],
                             [
-                             "charcoalwedgesgift",
-                             "corkwedgesgift",
-                             "woodenwedgesgift",
-                             "denimwedgesgift"
-                         ],
+                                "patrioticwedgesgift",
+                                "charcoalwedgesgift",
+                                "corkwedgesgift",
+                                "woodenwedgesgift",
+                                "denimwedgesgift"
+                            ],
                             [
-                             "glitteryheelsgift",
-                             "studdedheelsgift",
-                             "neonheelsgift",
-                             "clearheelsgift"
-                         ],
+                                "glitteryheelsgift",
+                                "goldenheelsgift",
+                                "studdedheelsgift",
+                                "neonheelsgift",
+                                "clearheelsgift"
+                            ],
                             [
-                             "angelpeeptoesgift",
-                             "plaidpeeptoesgift",
-                             "ribbonpeeptoesgift",
-                             "leopardpeeptoesgift"
-                         ],
+                                "elegantpeeptoesgift",
+                                "angelpeeptoesgift",
+                                "plaidpeeptoesgift",
+                                "ribbonpeeptoesgift",
+                                "leopardpeeptoesgift"
+                            ],
                             [
-                             "palmflipflopsgift",
-                             "melonflipflopsgift",
-                             "aquaflipflopsgift",
-                             "gardenflipflopsgift"
-                         ],
+                                "comfyflipflopsgift",
+                                "palmflipflopsgift",
+                                "melonflipflopsgift",
+                                "aquaflipflopsgift",
+                                "gardenflipflopsgift"
+                            ],
                             [
-                             "suedebootiesgift",
-                             "stripedbootiesgift",
-                             "gothbootiesgift",
-                             "satanicbootiesgift"
-                         ],
+                                "suedebootiesgift",
+                                "stripedbootiesgift",
+                                "gothbootiesgift",
+                                "abstractbootiesgift",
+                                "satanicbootiesgift"
+                            ],
                             [
-                             "knittedbootsgift",
-                             "seasonalbootsgift",
-                             "heavybootsgift",
-                             "fuzzybootsgift"
-                         ],
+                                "knittedbootsgift",
+                                "seasonalbootsgift",
+                                "heavybootsgift",
+                                "fuzzybootsgift",
+                                "festivebootsgift"
+                            ],
                             [
-                             "ballin'sneakersgift",
-                             "hightopsneakersgift",
-                             "airysneakersgift",
-                             "trainingsneakersgift"
-                         ],
+                                "skatersneakersgift",
+                                "ballin'sneakersgift",
+                                "hightopsneakersgift",
+                                "airysneakersgift",
+                                "trainingsneakersgift"
+                            ],
                             [
-                             "girlypumpsgift",
-                             "classypumpsgift",
-                             "shinypumpsgift",
-                             "polkadotpumpsgift"
-                         ],
+                                "girlypumpsgift",
+                                "classypumpsgift",
+                                "shinypumpsgift",
+                                "polkadotpumpsgift",
+                                "fancypumpsgift"
+                            ],
                             [
-                             "getaplatformsgift",
-                             "candyplatformsgift",
-                             "rainbowplatformsgift",
-                             "starplatformsgift"
-                         ],
+                                "getaplatformsgift",
+                                "candyplatformsgift",
+                                "lightupplatformsgift",
+                                "rainbowplatformsgift",
+                                "starplatformsgift"
+                            ],
                             [
-                             "astrobootsgift",
-                             "sacredbootsgift",
-                             "sherbetbootsgift",
-                             "hydrobootsgift"
-                         ]
+                                "astrobootsgift",
+                                "sacredbootsgift",
+                                "sherbetbootsgift",
+                                "hydrobootsgift",
+                                "cosmicbootsgift"
+                            ]
                         ]
                     }
                 ]

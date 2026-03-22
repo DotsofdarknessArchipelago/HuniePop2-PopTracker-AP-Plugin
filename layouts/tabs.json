@@ -109,15 +109,6 @@
                         "zoey"
                     ]
                 }
-            },
-            {
-                "title": "shop",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "shop"
-                    ]
-                }
             }
         ]
     },
@@ -134,83 +125,11 @@
                 }
             },
             {
-                "title": "abia candace",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "abia candace"
-                    ]
-                }
-            },
-            {
-                "title": "abia jessie",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "abia jessie"
-                    ]
-                }
-            },
-            {
-                "title": "abia lillian",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "abia lillian"
-                    ]
-                }
-            },
-            {
-                "title": "abia lola",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "abia lola"
-                    ]
-                }
-            },
-            {
                 "title": "ashley",
                 "content": {
                     "type": "map",
                     "maps": [
                         "ashley"
-                    ]
-                }
-            },
-            {
-                "title": "ashley brooke",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ashley brooke"
-                    ]
-                }
-            },
-            {
-                "title": "ashley lillian",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ashley lillian"
-                    ]
-                }
-            },
-            {
-                "title": "ashley nora",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ashley nora"
-                    ]
-                }
-            },
-            {
-                "title": "ashley polly",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "ashley polly"
                     ]
                 }
             },
@@ -224,65 +143,11 @@
                 }
             },
             {
-                "title": "brooke jessie",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "brooke jessie"
-                    ]
-                }
-            },
-            {
-                "title": "brooke polly",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "brooke polly"
-                    ]
-                }
-            },
-            {
-                "title": "brooke sarah",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "brooke sarah"
-                    ]
-                }
-            },
-            {
                 "title": "candace",
                 "content": {
                     "type": "map",
                     "maps": [
                         "candace"
-                    ]
-                }
-            },
-            {
-                "title": "candace lailani",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "candace lailani"
-                    ]
-                }
-            },
-            {
-                "title": "candace nora",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "candace nora"
-                    ]
-                }
-            },
-            {
-                "title": "candace polly",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "candace polly"
                     ]
                 }
             },
@@ -296,47 +161,11 @@
                 }
             },
             {
-                "title": "jessie lailani",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "jessie lailani"
-                    ]
-                }
-            },
-            {
-                "title": "jessie lola",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "jessie lola"
-                    ]
-                }
-            },
-            {
                 "title": "lailani",
                 "content": {
                     "type": "map",
                     "maps": [
                         "lailani"
-                    ]
-                }
-            },
-            {
-                "title": "lailani lillian",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "lailani lillian"
-                    ]
-                }
-            },
-            {
-                "title": "lailani sarah",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "lailani sarah"
                     ]
                 }
             },
@@ -350,38 +179,11 @@
                 }
             },
             {
-                "title": "lillian zoey",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "lillian zoey"
-                    ]
-                }
-            },
-            {
                 "title": "lola",
                 "content": {
                     "type": "map",
                     "maps": [
                         "lola"
-                    ]
-                }
-            },
-            {
-                "title": "lola nora",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "lola nora"
-                    ]
-                }
-            },
-            {
-                "title": "lola zoey",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "lola zoey"
                     ]
                 }
             },
@@ -395,15 +197,6 @@
                 }
             },
             {
-                "title": "nora sarah",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "nora sarah"
-                    ]
-                }
-            },
-            {
                 "title": "polly",
                 "content": {
                     "type": "map",
@@ -413,38 +206,11 @@
                 }
             },
             {
-                "title": "polly zoey",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "polly zoey"
-                    ]
-                }
-            },
-            {
                 "title": "sarah",
                 "content": {
                     "type": "map",
                     "maps": [
                         "sarah"
-                    ]
-                }
-            },
-            {
-                "title": "sarah zoey",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "sarah zoey"
-                    ]
-                }
-            },
-            {
-                "title": "shop",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "shop"
                     ]
                 }
             },

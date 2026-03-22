@@ -18,12 +18,13 @@
                                 "spankingpaddleuniquegift",
                                 "ballgaguniquegift",
                                 "nippleclampsuniquegift",
-                                "handcuffsuniquegift"
-
+                                "handcuffsuniquegift",
+                                "chaincollaruniquegift"
                             ],
                             [
                                 "microphoneuniquegift",
                                 "bassguitaruniquegift",
+                                "drumkituniquegift",
                                 "drumsticksuniquegift",
                                 "guitarampuniquegift"
                             ],
@@ -31,11 +32,13 @@
                                 "clutchpurseuniquegift",
                                 "shoulderbaguniquegift",
                                 "quiltedhandbaguniquegift",
+                                "fancyhandbaguniquegift",
                                 "eleganttotebaguniquegift"
                             ],
                             [
                                 "letterblocksuniquegift",
                                 "ringstackeruniquegift",
+                                "minixylophoneuniquegift",
                                 "shapesblockuniquegift",
                                 "animalwheeluniquegift"
                             ],
@@ -43,21 +46,25 @@
                                 "ginuniquegift",
                                 "rumuniquegift",
                                 "whiskyuniquegift",
-                                "vodkauniquegift"
+                                "vodkauniquegift",
+                                "tequilauniquegift"
                             ],
                             [
                                 "bathsaltsuniquegift",
                                 "hotstonesuniquegift",
                                 "loofahspongeuniquegift",
-                                "warmtowelsuniquegift"
+                                "warmtowelsuniquegift",
+                                "cucumberslicesuniquegift"
                             ],
                             [
                                 "witchhatuniquegift",
                                 "jack-o'-lanternuniquegift",
                                 "ouijaboarduniquegift",
-                                "voodoodolluniquegift"
+                                "voodoodolluniquegift",
+                                "goatskulluniquegift"
                             ],
                             [
+                                "scissorsuniquegift",
                                 "spoolofthreaduniquegift",
                                 "buttonsuniquegift",
                                 "pincushionuniquegift",
@@ -65,6 +72,7 @@
                             ],
                             [
                                 "binkyuniquegift",
+                                "babycapuniquegift",
                                 "diapersuniquegift",
                                 "babybottleuniquegift",
                                 "carcarrieruniquegift"
@@ -73,17 +81,20 @@
                                 "televisionuniquegift",
                                 "jukeboxuniquegift",
                                 "phonographuniquegift",
-                                "radiouniquegift"
+                                "radiouniquegift",
+                                "sodamachineuniquegift"
                             ],
                             [
                                 "mangabookuniquegift",
                                 "boobymousepaduniquegift",
                                 "cellphonecoveruniquegift",
-                                "chibifigurineuniquegift"
+                                "chibifigurineuniquegift",
+                                "japanesecandyuniquegift"
                             ],
                             [
                                 "crystalsuniquegift",
                                 "crystalballuniquegift",
+                                "incenseuniquegift",
                                 "hourglassuniquegift",
                                 "tarotcardsuniquegift"
                             ]
