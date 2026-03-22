@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (candace|lailani)",
-                "access_rules": 
-                [
-                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Lailani/Pair Attracted (candace|lailani)"
             },
             {
                 "name": "Pair Lovers (candace|lailani)",
-                "access_rules": 
-                [
-                    "unlockgirl(lailani),unlockgirl(candace),pairunlock(candace|lailani)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Lailani/Pair Lovers (candace|lailani)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (jessie|lailani)",
-                "access_rules": 
-                [
-                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Jessie|Lailani/Pair Attracted (jessie|lailani)"
             },
             {
                 "name": "Pair Lovers (jessie|lailani)",
-                "access_rules": 
-                [
-                    "unlockgirl(lailani),unlockgirl(jessie),pairunlock(jessie|lailani)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Jessie|Lailani/Pair Lovers (jessie|lailani)"
             }
         ]
     },

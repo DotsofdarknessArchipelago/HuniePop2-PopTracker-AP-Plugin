@@ -264,21 +264,11 @@
         [
             {
                 "name": "Pair Attracted (jessie|lola)",
-                "access_rules": 
-                [
-                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Jessie|Lola/Pair Attracted (jessie|lola)"
             },
             {
                 "name": "Pair Lovers (jessie|lola)",
-                "access_rules": 
-                [
-                    "unlockgirl(lola),unlockgirl(jessie),pairunlock(jessie|lola)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Jessie|Lola/Pair Lovers (jessie|lola)"
             }
         ]
     },

@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (lillian|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lillian|Zoey/Pair Attracted (lillian|zoey)"
             },
             {
                 "name": "Pair Lovers (lillian|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(lillian),pairunlock(lillian|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lillian|Zoey/Pair Lovers (lillian|zoey)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (lola|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lola|Zoey/Pair Attracted (lola|zoey)"
             },
             {
                 "name": "Pair Lovers (lola|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(lola),pairunlock(lola|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Lola|Zoey/Pair Lovers (lola|zoey)"
             }
         ]
     },
@@ -297,21 +277,11 @@
         [
             {
                 "name": "Pair Attracted (polly|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Polly|Zoey/Pair Attracted (polly|zoey)"
             },
             {
                 "name": "Pair Lovers (polly|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(polly),pairunlock(polly|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Polly|Zoey/Pair Lovers (polly|zoey)"
             }
         ]
     },
@@ -330,21 +300,11 @@
         [
             {
                 "name": "Pair Attracted (sarah|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Sarah|Zoey/Pair Attracted (sarah|zoey)"
             },
             {
                 "name": "Pair Lovers (sarah|zoey)",
-                "access_rules": 
-                [
-                    "unlockgirl(zoey),unlockgirl(sarah),pairunlock(sarah|zoey)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Sarah|Zoey/Pair Lovers (sarah|zoey)"
             }
         ]
     },

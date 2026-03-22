@@ -231,21 +231,11 @@
         [
             {
                 "name": "Pair Attracted (ashley|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(ashley),pairunlock(ashley|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Polly/Pair Attracted (ashley|polly)"
             },
             {
                 "name": "Pair Lovers (ashley|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(ashley),pairunlock(ashley|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Ashley|Polly/Pair Lovers (ashley|polly)"
             }
         ]
     },
@@ -264,21 +254,11 @@
         [
             {
                 "name": "Pair Attracted (brooke|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(brooke),pairunlock(brooke|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Brooke|Polly/Pair Attracted (brooke|polly)"
             },
             {
                 "name": "Pair Lovers (brooke|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(brooke),pairunlock(brooke|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Brooke|Polly/Pair Lovers (brooke|polly)"
             }
         ]
     },
@@ -297,21 +277,11 @@
         [
             {
                 "name": "Pair Attracted (candace|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(candace),pairunlock(candace|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Polly/Pair Attracted (candace|polly)"
             },
             {
                 "name": "Pair Lovers (candace|polly)",
-                "access_rules": 
-                [
-                    "unlockgirl(polly),unlockgirl(candace),pairunlock(candace|polly)"
-                ],
-                "visibility_rules": [],
-                "item_count": 1
+                "ref": "Candace|Polly/Pair Lovers (candace|polly)"
             }
         ]
     },
